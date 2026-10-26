@@ -1,0 +1,212 @@
+{
+ "frames": {
+  "idle/0": {
+   "frame": {
+    "x": 268,
+    "y": 2,
+    "w": 31,
+    "h": 32
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 8,
+    "y": 16,
+    "w": 31,
+    "h": 32
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 48
+   }
+  },
+  "hurt/0": {
+   "frame": {
+    "x": 185,
+    "y": 2,
+    "w": 40,
+    "h": 33
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 1,
+    "y": 15,
+    "w": 40,
+    "h": 33
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 48
+   }
+  },
+  "hurt/1": {
+   "frame": {
+    "x": 227,
+    "y": 2,
+    "w": 39,
+    "h": 32
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 3,
+    "y": 16,
+    "w": 39,
+    "h": 32
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 48
+   }
+  },
+  "hurt/2": {
+   "frame": {
+    "x": 334,
+    "y": 2,
+    "w": 32,
+    "h": 31
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 4,
+    "y": 17,
+    "w": 32,
+    "h": 31
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 48
+   }
+  },
+  "hurt/3": {
+   "frame": {
+    "x": 301,
+    "y": 2,
+    "w": 31,
+    "h": 32
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 9,
+    "y": 16,
+    "w": 31,
+    "h": 32
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 48
+   }
+  },
+  "idle_armored/0": {
+   "frame": {
+    "x": 119,
+    "y": 2,
+    "w": 31,
+    "h": 35
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 8,
+    "y": 13,
+    "w": 31,
+    "h": 35
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 48
+   }
+  },
+  "hurt_armored/0": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 40,
+    "h": 43
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 1,
+    "y": 5,
+    "w": 40,
+    "h": 43
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 48
+   }
+  },
+  "hurt_armored/1": {
+   "frame": {
+    "x": 44,
+    "y": 2,
+    "w": 39,
+    "h": 41
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 3,
+    "y": 7,
+    "w": 39,
+    "h": 41
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 48
+   }
+  },
+  "hurt_armored/2": {
+   "frame": {
+    "x": 85,
+    "y": 2,
+    "w": 32,
+    "h": 35
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 4,
+    "y": 13,
+    "w": 32,
+    "h": 35
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 48
+   }
+  },
+  "hurt_armored/3": {
+   "frame": {
+    "x": 152,
+    "y": 2,
+    "w": 31,
+    "h": 35
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 9,
+    "y": 13,
+    "w": 31,
+    "h": 35
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 48
+   }
+  }
+ },
+ "meta": {
+  "image": "training_dummy.png",
+  "size": {
+   "w": 368,
+   "h": 47
+  },
+  "scale": "1"
+ }
+}

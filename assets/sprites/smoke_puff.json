@@ -1,0 +1,172 @@
+{
+ "frames": {
+  "puff/0": {
+   "frame": {
+    "x": 166,
+    "y": 2,
+    "w": 19,
+    "h": 10
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 29,
+    "y": 38,
+    "w": 19,
+    "h": 10
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  },
+  "puff/1": {
+   "frame": {
+    "x": 113,
+    "y": 2,
+    "w": 24,
+    "h": 14
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 24,
+    "y": 34,
+    "w": 24,
+    "h": 14
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  },
+  "puff/2": {
+   "frame": {
+    "x": 29,
+    "y": 2,
+    "w": 28,
+    "h": 17
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 20,
+    "y": 33,
+    "w": 28,
+    "h": 17
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  },
+  "puff/3": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 25,
+    "h": 18
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 20,
+    "y": 32,
+    "w": 25,
+    "h": 18
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  },
+  "puff/4": {
+   "frame": {
+    "x": 59,
+    "y": 2,
+    "w": 25,
+    "h": 17
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 20,
+    "y": 32,
+    "w": 25,
+    "h": 17
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  },
+  "puff/5": {
+   "frame": {
+    "x": 86,
+    "y": 2,
+    "w": 25,
+    "h": 16
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 20,
+    "y": 32,
+    "w": 25,
+    "h": 16
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  },
+  "puff/6": {
+   "frame": {
+    "x": 139,
+    "y": 2,
+    "w": 25,
+    "h": 12
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 20,
+    "y": 36,
+    "w": 25,
+    "h": 12
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  },
+  "puff/7": {
+   "frame": {
+    "x": 187,
+    "y": 2,
+    "w": 1,
+    "h": 1
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1,
+    "h": 1
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  }
+ },
+ "meta": {
+  "image": "smoke_puff.png",
+  "size": {
+   "w": 190,
+   "h": 22
+  },
+  "scale": "1"
+ }
+}

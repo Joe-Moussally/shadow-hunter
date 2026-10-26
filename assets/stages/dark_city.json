@@ -1,0 +1,1112 @@
+{
+ "version": 1,
+ "name": "dark_city",
+ "width": 1152,
+ "height": 216,
+ "background": "#120c2a",
+ "layers": [
+  {
+   "kind": "image",
+   "name": "sky",
+   "parallax": {
+    "x": 0,
+    "y": 0
+   },
+   "offset": {
+    "x": 0,
+    "y": 0
+   },
+   "opacity": 1,
+   "atlas": "stage_fx",
+   "frame": "sky",
+   "repeatX": true,
+   "repeatY": false
+  },
+  {
+   "kind": "props",
+   "name": "clouds",
+   "parallax": {
+    "x": 0.1,
+    "y": 0.1
+   },
+   "offset": {
+    "x": 0,
+    "y": 0
+   },
+   "opacity": 0.55,
+   "drift": {
+    "x": 3,
+    "loopWidth": 480
+   },
+   "props": [
+    {
+     "atlas": "tileset",
+     "frame": "cloud_1",
+     "x": 30,
+     "y": 24
+    },
+    {
+     "atlas": "tileset",
+     "frame": "cloud_3",
+     "x": 150,
+     "y": 51
+    },
+    {
+     "atlas": "tileset",
+     "frame": "cloud_2",
+     "x": 250,
+     "y": 20
+    },
+    {
+     "atlas": "tileset",
+     "frame": "cloud_1",
+     "x": 330,
+     "y": 40,
+     "flipX": true
+    },
+    {
+     "atlas": "tileset",
+     "frame": "cloud_3",
+     "x": 430,
+     "y": 31,
+     "flipX": true
+    }
+   ]
+  },
+  {
+   "kind": "props",
+   "name": "hills",
+   "parallax": {
+    "x": 0.25,
+    "y": 0.25
+   },
+   "offset": {
+    "x": 0,
+    "y": 0
+   },
+   "opacity": 0.5,
+   "props": [
+    {
+     "atlas": "tileset",
+     "frame": "hills",
+     "x": 0,
+     "y": 155
+    },
+    {
+     "atlas": "tileset",
+     "frame": "hills",
+     "x": 128,
+     "y": 155,
+     "flipX": true
+    },
+    {
+     "atlas": "tileset",
+     "frame": "hills",
+     "x": 256,
+     "y": 155
+    },
+    {
+     "atlas": "tileset",
+     "frame": "hills",
+     "x": 384,
+     "y": 155,
+     "flipX": true
+    },
+    {
+     "atlas": "tileset",
+     "frame": "hills",
+     "x": 512,
+     "y": 155
+    }
+   ]
+  },
+  {
+   "kind": "props",
+   "name": "far_buildings",
+   "parallax": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "offset": {
+    "x": 0,
+    "y": 0
+   },
+   "opacity": 0.65,
+   "props": [
+    {
+     "atlas": "tileset",
+     "frame": "building_block",
+     "x": 0,
+     "y": 116
+    },
+    {
+     "atlas": "tileset",
+     "frame": "windows",
+     "x": 8,
+     "y": 134
+    },
+    {
+     "atlas": "tileset",
+     "frame": "caps_a",
+     "x": 14,
+     "y": 100
+    },
+    {
+     "atlas": "tileset",
+     "frame": "building_top",
+     "x": 60,
+     "y": 148
+    },
+    {
+     "atlas": "tileset",
+     "frame": "building_block",
+     "x": 124,
+     "y": 116
+    },
+    {
+     "atlas": "tileset",
+     "frame": "building_top",
+     "x": 122,
+     "y": 68
+    },
+    {
+     "atlas": "tileset",
+     "frame": "windows",
+     "x": 132,
+     "y": 144
+    },
+    {
+     "atlas": "tileset",
+     "frame": "hanging_curve_a",
+     "x": 176,
+     "y": 124
+    },
+    {
+     "atlas": "tileset",
+     "frame": "building_block",
+     "x": 230,
+     "y": 116
+    },
+    {
+     "atlas": "tileset",
+     "frame": "roof_hut_a",
+     "x": 246,
+     "y": 98
+    },
+    {
+     "atlas": "tileset",
+     "frame": "tank",
+     "x": 300,
+     "y": 180
+    },
+    {
+     "atlas": "tileset",
+     "frame": "building_top",
+     "x": 340,
+     "y": 148
+    },
+    {
+     "atlas": "tileset",
+     "frame": "windows",
+     "x": 350,
+     "y": 164
+    },
+    {
+     "atlas": "tileset",
+     "frame": "building_block",
+     "x": 410,
+     "y": 116
+    },
+    {
+     "atlas": "tileset",
+     "frame": "building_block",
+     "x": 410,
+     "y": 36
+    },
+    {
+     "atlas": "tileset",
+     "frame": "windows",
+     "x": 418,
+     "y": 74
+    },
+    {
+     "atlas": "tileset",
+     "frame": "caps_b",
+     "x": 424,
+     "y": 20
+    },
+    {
+     "atlas": "tileset",
+     "frame": "hanging_curve_b",
+     "x": 456,
+     "y": 104
+    },
+    {
+     "atlas": "tileset",
+     "frame": "building_block",
+     "x": 500,
+     "y": 116
+    },
+    {
+     "atlas": "tileset",
+     "frame": "roof_hut_b",
+     "x": 530,
+     "y": 98
+    },
+    {
+     "atlas": "tileset",
+     "frame": "building_top",
+     "x": 560,
+     "y": 148
+    },
+    {
+     "atlas": "tileset",
+     "frame": "building_block",
+     "x": 630,
+     "y": 116
+    },
+    {
+     "atlas": "tileset",
+     "frame": "tank",
+     "x": 642,
+     "y": 100
+    },
+    {
+     "atlas": "tileset",
+     "frame": "windows",
+     "x": 638,
+     "y": 144
+    },
+    {
+     "atlas": "tileset",
+     "frame": "building_block",
+     "x": 700,
+     "y": 116
+    },
+    {
+     "atlas": "tileset",
+     "frame": "building_top",
+     "x": 698,
+     "y": 68
+    },
+    {
+     "atlas": "tileset",
+     "frame": "building_top",
+     "x": 770,
+     "y": 148
+    },
+    {
+     "atlas": "tileset",
+     "frame": "windows",
+     "x": 780,
+     "y": 164
+    }
+   ]
+  },
+  {
+   "kind": "props",
+   "name": "fog",
+   "parallax": {
+    "x": 0.6,
+    "y": 0.6
+   },
+   "offset": {
+    "x": 0,
+    "y": 0
+   },
+   "opacity": 0.4,
+   "tint": "#505d6d",
+   "drift": {
+    "x": 4,
+    "loopWidth": 864
+   },
+   "props": [
+    {
+     "atlas": "stage_fx",
+     "frame": "fog",
+     "x": 0,
+     "y": 152
+    },
+    {
+     "atlas": "stage_fx",
+     "frame": "fog",
+     "x": 180,
+     "y": 158
+    },
+    {
+     "atlas": "stage_fx",
+     "frame": "fog",
+     "x": 400,
+     "y": 148
+    },
+    {
+     "atlas": "stage_fx",
+     "frame": "fog",
+     "x": 600,
+     "y": 156
+    },
+    {
+     "atlas": "stage_fx",
+     "frame": "fog",
+     "x": 760,
+     "y": 150
+    }
+   ]
+  },
+  {
+   "kind": "props",
+   "name": "walls",
+   "parallax": {
+    "x": 1,
+    "y": 1
+   },
+   "offset": {
+    "x": 0,
+    "y": 0
+   },
+   "opacity": 0.75,
+   "props": [
+    {
+     "atlas": "tileset",
+     "frame": "building_block",
+     "x": -32,
+     "y": 112
+    },
+    {
+     "atlas": "tileset",
+     "frame": "building_block",
+     "x": -32,
+     "y": 32
+    },
+    {
+     "atlas": "tileset",
+     "frame": "windows",
+     "x": -24,
+     "y": 134
+    },
+    {
+     "atlas": "tileset",
+     "frame": "building_block",
+     "x": 1136,
+     "y": 112
+    },
+    {
+     "atlas": "tileset",
+     "frame": "building_block",
+     "x": 1136,
+     "y": 32
+    },
+    {
+     "atlas": "tileset",
+     "frame": "windows",
+     "x": 1144,
+     "y": 134
+    }
+   ]
+  },
+  {
+   "kind": "props",
+   "name": "backdrop",
+   "parallax": {
+    "x": 1,
+    "y": 1
+   },
+   "offset": {
+    "x": 0,
+    "y": 0
+   },
+   "opacity": 1,
+   "props": [
+    {
+     "atlas": "tileset",
+     "frame": "pipe_vertical",
+     "x": 16,
+     "y": 137
+    },
+    {
+     "atlas": "tileset",
+     "frame": "ac_unit",
+     "x": 1118,
+     "y": 105
+    },
+    {
+     "atlas": "tileset",
+     "frame": "cctv_camera",
+     "x": 1124,
+     "y": 80,
+     "flipX": true
+    },
+    {
+     "atlas": "tileset",
+     "frame": "platform_left",
+     "x": 157,
+     "y": 150
+    },
+    {
+     "atlas": "tileset",
+     "frame": "platform_right",
+     "x": 196,
+     "y": 150
+    },
+    {
+     "atlas": "tileset",
+     "frame": "platform_left",
+     "x": 537,
+     "y": 150
+    },
+    {
+     "atlas": "tileset",
+     "frame": "platform_right",
+     "x": 576,
+     "y": 150
+    },
+    {
+     "atlas": "tileset",
+     "frame": "platform_left",
+     "x": 917,
+     "y": 150
+    },
+    {
+     "atlas": "tileset",
+     "frame": "platform_right",
+     "x": 956,
+     "y": 150
+    },
+    {
+     "atlas": "tileset",
+     "frame": "bridge_deck",
+     "x": 252,
+     "y": 116
+    },
+    {
+     "atlas": "tileset",
+     "frame": "bridge_arch",
+     "x": 252,
+     "y": 131
+    },
+    {
+     "atlas": "tileset",
+     "frame": "bollard",
+     "x": 256,
+     "y": 143
+    },
+    {
+     "atlas": "tileset",
+     "frame": "bollard",
+     "x": 290,
+     "y": 143
+    },
+    {
+     "atlas": "tileset",
+     "frame": "bridge_deck",
+     "x": 852,
+     "y": 116
+    },
+    {
+     "atlas": "tileset",
+     "frame": "bridge_arch",
+     "x": 852,
+     "y": 131
+    },
+    {
+     "atlas": "tileset",
+     "frame": "bollard",
+     "x": 856,
+     "y": 143
+    },
+    {
+     "atlas": "tileset",
+     "frame": "bollard",
+     "x": 890,
+     "y": 143
+    },
+    {
+     "atlas": "tileset",
+     "frame": "door_neon",
+     "x": 380,
+     "y": 160,
+     "flicker": true
+    },
+    {
+     "atlas": "tileset",
+     "frame": "door",
+     "x": 740,
+     "y": 160
+    },
+    {
+     "atlas": "tileset",
+     "frame": "door_neon",
+     "x": 1060,
+     "y": 160,
+     "flicker": true
+    },
+    {
+     "atlas": "tileset",
+     "frame": "swatch",
+     "x": 620,
+     "y": 168
+    },
+    {
+     "atlas": "tileset",
+     "frame": "swatch",
+     "x": 652,
+     "y": 168
+    },
+    {
+     "atlas": "tileset",
+     "frame": "swatch",
+     "x": 684,
+     "y": 168
+    },
+    {
+     "atlas": "tileset",
+     "frame": "swatch",
+     "x": 620,
+     "y": 152
+    },
+    {
+     "atlas": "tileset",
+     "frame": "swatch",
+     "x": 652,
+     "y": 152
+    },
+    {
+     "atlas": "tileset",
+     "frame": "swatch",
+     "x": 684,
+     "y": 152
+    },
+    {
+     "atlas": "tileset",
+     "frame": "graffiti",
+     "x": 648,
+     "y": 161
+    },
+    {
+     "atlas": "tileset",
+     "frame": "railing",
+     "x": 622,
+     "y": 144
+    },
+    {
+     "atlas": "tileset",
+     "frame": "railing",
+     "x": 668,
+     "y": 144
+    }
+   ]
+  },
+  {
+   "kind": "props",
+   "name": "lights",
+   "parallax": {
+    "x": 1,
+    "y": 1
+   },
+   "offset": {
+    "x": 0,
+    "y": 0
+   },
+   "opacity": 0.45,
+   "additive": true,
+   "props": [
+    {
+     "atlas": "tileset",
+     "frame": "light_cone",
+     "x": 46,
+     "y": 137
+    },
+    {
+     "atlas": "tileset",
+     "frame": "light_cone",
+     "x": 426,
+     "y": 137
+    },
+    {
+     "atlas": "tileset",
+     "frame": "light_cone",
+     "x": 472,
+     "y": 137
+    },
+    {
+     "atlas": "tileset",
+     "frame": "light_cone",
+     "x": 986,
+     "y": 137
+    },
+    {
+     "atlas": "tileset",
+     "frame": "light_cone",
+     "x": 1032,
+     "y": 137
+    },
+    {
+     "atlas": "tileset",
+     "frame": "light_cone",
+     "x": 1089,
+     "y": 137
+    }
+   ]
+  },
+  {
+   "kind": "props",
+   "name": "street",
+   "parallax": {
+    "x": 1,
+    "y": 1
+   },
+   "offset": {
+    "x": 0,
+    "y": 0
+   },
+   "opacity": 1,
+   "props": [
+    {
+     "atlas": "tileset",
+     "frame": "street_lamp_l",
+     "x": 60,
+     "y": 131
+    },
+    {
+     "atlas": "tileset",
+     "frame": "power_poles_wire_a",
+     "x": 300,
+     "y": 94
+    },
+    {
+     "atlas": "tileset",
+     "frame": "street_lamp_double",
+     "x": 440,
+     "y": 131
+    },
+    {
+     "atlas": "tileset",
+     "frame": "bollard",
+     "x": 596,
+     "y": 136
+    },
+    {
+     "atlas": "tileset",
+     "frame": "power_pole",
+     "x": 700,
+     "y": 94
+    },
+    {
+     "atlas": "tileset",
+     "frame": "bollard",
+     "x": 724,
+     "y": 136
+    },
+    {
+     "atlas": "tileset",
+     "frame": "power_poles_wire_b",
+     "x": 860,
+     "y": 94
+    },
+    {
+     "atlas": "tileset",
+     "frame": "street_lamp_double",
+     "x": 1000,
+     "y": 131
+    },
+    {
+     "atlas": "tileset",
+     "frame": "street_lamp_r",
+     "x": 1080,
+     "y": 131
+    }
+   ]
+  },
+  {
+   "kind": "props",
+   "name": "ground",
+   "parallax": {
+    "x": 1,
+    "y": 1
+   },
+   "offset": {
+    "x": 0,
+    "y": 0
+   },
+   "opacity": 1,
+   "props": [
+    {
+     "atlas": "tileset",
+     "frame": "ground_tile",
+     "x": 0,
+     "y": 184
+    },
+    {
+     "atlas": "tileset",
+     "frame": "ground_tile",
+     "x": 64,
+     "y": 184,
+     "flipX": true
+    },
+    {
+     "atlas": "tileset",
+     "frame": "ground_tile",
+     "x": 128,
+     "y": 184
+    },
+    {
+     "atlas": "tileset",
+     "frame": "ground_tile",
+     "x": 192,
+     "y": 184,
+     "flipX": true
+    },
+    {
+     "atlas": "tileset",
+     "frame": "ground_tile",
+     "x": 256,
+     "y": 184
+    },
+    {
+     "atlas": "tileset",
+     "frame": "ground_tile",
+     "x": 320,
+     "y": 184,
+     "flipX": true
+    },
+    {
+     "atlas": "tileset",
+     "frame": "ground_tile",
+     "x": 384,
+     "y": 184
+    },
+    {
+     "atlas": "tileset",
+     "frame": "ground_tile",
+     "x": 448,
+     "y": 184,
+     "flipX": true
+    },
+    {
+     "atlas": "tileset",
+     "frame": "ground_tile",
+     "x": 512,
+     "y": 184
+    },
+    {
+     "atlas": "tileset",
+     "frame": "ground_tile",
+     "x": 576,
+     "y": 184,
+     "flipX": true
+    },
+    {
+     "atlas": "tileset",
+     "frame": "ground_tile",
+     "x": 640,
+     "y": 184
+    },
+    {
+     "atlas": "tileset",
+     "frame": "ground_tile",
+     "x": 704,
+     "y": 184,
+     "flipX": true
+    },
+    {
+     "atlas": "tileset",
+     "frame": "ground_tile",
+     "x": 768,
+     "y": 184
+    },
+    {
+     "atlas": "tileset",
+     "frame": "ground_tile",
+     "x": 832,
+     "y": 184,
+     "flipX": true
+    },
+    {
+     "atlas": "tileset",
+     "frame": "ground_tile",
+     "x": 896,
+     "y": 184
+    },
+    {
+     "atlas": "tileset",
+     "frame": "ground_tile",
+     "x": 960,
+     "y": 184,
+     "flipX": true
+    },
+    {
+     "atlas": "tileset",
+     "frame": "ground_tile",
+     "x": 1024,
+     "y": 184
+    },
+    {
+     "atlas": "tileset",
+     "frame": "ground_tile",
+     "x": 1088,
+     "y": 184,
+     "flipX": true
+    }
+   ]
+  },
+  {
+   "kind": "props",
+   "name": "junk",
+   "parallax": {
+    "x": 1,
+    "y": 1
+   },
+   "offset": {
+    "x": 0,
+    "y": 0
+   },
+   "opacity": 1,
+   "props": [
+    {
+     "atlas": "tileset",
+     "frame": "electric_box",
+     "x": 24,
+     "y": 171
+    },
+    {
+     "atlas": "tileset",
+     "frame": "bench",
+     "x": 200,
+     "y": 174
+    },
+    {
+     "atlas": "tileset",
+     "frame": "low_debris_a",
+     "x": 420,
+     "y": 178
+    },
+    {
+     "atlas": "tileset",
+     "frame": "dumpster",
+     "x": 560,
+     "y": 164
+    },
+    {
+     "atlas": "tileset",
+     "frame": "trash_can",
+     "x": 592,
+     "y": 174
+    },
+    {
+     "atlas": "tileset",
+     "frame": "bag_a",
+     "x": 604,
+     "y": 173
+    },
+    {
+     "atlas": "tileset",
+     "frame": "bag_b",
+     "x": 616,
+     "y": 174
+    },
+    {
+     "atlas": "tileset",
+     "frame": "debris_stick",
+     "x": 760,
+     "y": 176
+    },
+    {
+     "atlas": "tileset",
+     "frame": "low_debris_b",
+     "x": 820,
+     "y": 178
+    },
+    {
+     "atlas": "tileset",
+     "frame": "junk_pile",
+     "x": 960,
+     "y": 169
+    },
+    {
+     "atlas": "tileset",
+     "frame": "small_sign",
+     "x": 1004,
+     "y": 179
+    },
+    {
+     "atlas": "tileset",
+     "frame": "gas_cylinders",
+     "x": 1090,
+     "y": 164
+    }
+   ]
+  },
+  {
+   "kind": "props",
+   "name": "foreground",
+   "parallax": {
+    "x": 1.3,
+    "y": 1.3
+   },
+   "offset": {
+    "x": 0,
+    "y": 0
+   },
+   "opacity": 1,
+   "foreground": true,
+   "props": [
+    {
+     "atlas": "tileset",
+     "frame": "hanging_curve_a",
+     "x": 120,
+     "y": 4
+    },
+    {
+     "atlas": "tileset",
+     "frame": "hanging_curve_b",
+     "x": 500,
+     "y": 2
+    },
+    {
+     "atlas": "tileset",
+     "frame": "hanging_curve_a",
+     "x": 900,
+     "y": 6,
+     "flipX": true
+    },
+    {
+     "atlas": "tileset",
+     "frame": "hanging_curve_b",
+     "x": 1250,
+     "y": 3
+    }
+   ]
+  },
+  {
+   "kind": "rain",
+   "name": "rain",
+   "parallax": {
+    "x": 1,
+    "y": 1
+   },
+   "offset": {
+    "x": 0,
+    "y": 0
+   },
+   "opacity": 1,
+   "density": 50,
+   "speed": 320,
+   "angle": -8,
+   "color": "#8fa3b8",
+   "alpha": 0.35
+  }
+ ],
+ "solids": [
+  {
+   "x": 0,
+   "y": 184,
+   "w": 1152,
+   "h": 32
+  },
+  {
+   "x": 0,
+   "y": -16,
+   "w": 16,
+   "h": 232
+  },
+  {
+   "x": 1136,
+   "y": -16,
+   "w": 16,
+   "h": 232
+  },
+  {
+   "x": 0,
+   "y": -16,
+   "w": 1152,
+   "h": 16
+  },
+  {
+   "x": 157,
+   "y": 150,
+   "w": 78,
+   "h": 4,
+   "oneWay": true
+  },
+  {
+   "x": 252,
+   "y": 116,
+   "w": 48,
+   "h": 4,
+   "oneWay": true
+  },
+  {
+   "x": 537,
+   "y": 150,
+   "w": 78,
+   "h": 4,
+   "oneWay": true
+  },
+  {
+   "x": 852,
+   "y": 116,
+   "w": 48,
+   "h": 4,
+   "oneWay": true
+  },
+  {
+   "x": 917,
+   "y": 150,
+   "w": 78,
+   "h": 4,
+   "oneWay": true
+  }
+ ],
+ "playerSpawn": {
+  "x": 576,
+  "y": 184
+ },
+ "spawnPoints": [
+  {
+   "x": 120,
+   "y": 184
+  },
+  {
+   "x": 300,
+   "y": 184
+  },
+  {
+   "x": 440,
+   "y": 184
+  },
+  {
+   "x": 700,
+   "y": 184
+  },
+  {
+   "x": 850,
+   "y": 184
+  },
+  {
+   "x": 1030,
+   "y": 184
+  },
+  {
+   "x": 196,
+   "y": 150
+  },
+  {
+   "x": 276,
+   "y": 116
+  },
+  {
+   "x": 876,
+   "y": 116
+  },
+  {
+   "x": 956,
+   "y": 150
+  }
+ ],
+ "effects": {
+  "lightning": {
+   "minSeconds": 9,
+   "maxSeconds": 24
+  }
+ }
+}

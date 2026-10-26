@@ -1,0 +1,252 @@
+{
+ "frames": {
+  "bolt/0": {
+   "frame": {
+    "x": 404,
+    "y": 2,
+    "w": 21,
+    "h": 28
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 7,
+    "y": 7,
+    "w": 21,
+    "h": 28
+   },
+   "sourceSize": {
+    "w": 84,
+    "h": 40
+   }
+  },
+  "bolt/1": {
+   "frame": {
+    "x": 542,
+    "y": 2,
+    "w": 40,
+    "h": 25
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 9,
+    "y": 8,
+    "w": 40,
+    "h": 25
+   },
+   "sourceSize": {
+    "w": 84,
+    "h": 40
+   }
+  },
+  "bolt/2": {
+   "frame": {
+    "x": 486,
+    "y": 2,
+    "w": 54,
+    "h": 25
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 10,
+    "y": 8,
+    "w": 54,
+    "h": 25
+   },
+   "sourceSize": {
+    "w": 84,
+    "h": 40
+   }
+  },
+  "bolt/3": {
+   "frame": {
+    "x": 294,
+    "y": 2,
+    "w": 56,
+    "h": 28
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 8,
+    "y": 7,
+    "w": 56,
+    "h": 28
+   },
+   "sourceSize": {
+    "w": 84,
+    "h": 40
+   }
+  },
+  "bolt/4": {
+   "frame": {
+    "x": 427,
+    "y": 2,
+    "w": 57,
+    "h": 27
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 8,
+    "y": 8,
+    "w": 57,
+    "h": 27
+   },
+   "sourceSize": {
+    "w": 84,
+    "h": 40
+   }
+  },
+  "bolt/5": {
+   "frame": {
+    "x": 352,
+    "y": 2,
+    "w": 50,
+    "h": 28
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 15,
+    "y": 7,
+    "w": 50,
+    "h": 28
+   },
+   "sourceSize": {
+    "w": 84,
+    "h": 40
+   }
+  },
+  "bolt/10": {
+   "frame": {
+    "x": 234,
+    "y": 2,
+    "w": 58,
+    "h": 30
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 13,
+    "y": 5,
+    "w": 58,
+    "h": 30
+   },
+   "sourceSize": {
+    "w": 84,
+    "h": 40
+   }
+  },
+  "bolt/11": {
+   "frame": {
+    "x": 116,
+    "y": 2,
+    "w": 57,
+    "h": 36
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 15,
+    "y": 2,
+    "w": 57,
+    "h": 36
+   },
+   "sourceSize": {
+    "w": 84,
+    "h": 40
+   }
+  },
+  "bolt/12": {
+   "frame": {
+    "x": 61,
+    "y": 2,
+    "w": 53,
+    "h": 38
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 19,
+    "y": 1,
+    "w": 53,
+    "h": 38
+   },
+   "sourceSize": {
+    "w": 84,
+    "h": 40
+   }
+  },
+  "bolt/13": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 57,
+    "h": 39
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 20,
+    "y": 1,
+    "w": 57,
+    "h": 39
+   },
+   "sourceSize": {
+    "w": 84,
+    "h": 40
+   }
+  },
+  "bolt/14": {
+   "frame": {
+    "x": 584,
+    "y": 2,
+    "w": 1,
+    "h": 1
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1,
+    "h": 1
+   },
+   "sourceSize": {
+    "w": 84,
+    "h": 40
+   }
+  },
+  "bolt/15": {
+   "frame": {
+    "x": 175,
+    "y": 2,
+    "w": 57,
+    "h": 35
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 19,
+    "y": 1,
+    "w": 57,
+    "h": 35
+   },
+   "sourceSize": {
+    "w": 84,
+    "h": 40
+   }
+  }
+ },
+ "meta": {
+  "image": "witch_bolt.png",
+  "size": {
+   "w": 587,
+   "h": 43
+  },
+  "scale": "1"
+ }
+}

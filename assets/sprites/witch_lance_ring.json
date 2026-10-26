@@ -1,0 +1,92 @@
+{
+ "frames": {
+  "ring/0": {
+   "frame": {
+    "x": 49,
+    "y": 2,
+    "w": 18,
+    "h": 27
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 10,
+    "y": 7,
+    "w": 18,
+    "h": 27
+   },
+   "sourceSize": {
+    "w": 84,
+    "h": 40
+   }
+  },
+  "ring/1": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 21,
+    "h": 29
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 8,
+    "y": 7,
+    "w": 21,
+    "h": 29
+   },
+   "sourceSize": {
+    "w": 84,
+    "h": 40
+   }
+  },
+  "ring/2": {
+   "frame": {
+    "x": 25,
+    "y": 2,
+    "w": 22,
+    "h": 28
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 7,
+    "y": 7,
+    "w": 22,
+    "h": 28
+   },
+   "sourceSize": {
+    "w": 84,
+    "h": 40
+   }
+  },
+  "ring/3": {
+   "frame": {
+    "x": 69,
+    "y": 2,
+    "w": 1,
+    "h": 1
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1,
+    "h": 1
+   },
+   "sourceSize": {
+    "w": 84,
+    "h": 40
+   }
+  }
+ },
+ "meta": {
+  "image": "witch_lance_ring.png",
+  "size": {
+   "w": 72,
+   "h": 33
+  },
+  "scale": "1"
+ }
+}

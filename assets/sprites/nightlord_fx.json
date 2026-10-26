@@ -1,0 +1,332 @@
+{
+ "frames": {
+  "attack1/0": {
+   "frame": {
+    "x": 36,
+    "y": 2,
+    "w": 37,
+    "h": 14
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 28,
+    "y": 18,
+    "w": 37,
+    "h": 14
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 48
+   }
+  },
+  "attack1/1": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 32,
+    "h": 16
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 33,
+    "y": 17,
+    "w": 32,
+    "h": 16
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 48
+   }
+  },
+  "attack1/2": {
+   "frame": {
+    "x": 75,
+    "y": 2,
+    "w": 27,
+    "h": 12
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 37,
+    "y": 17,
+    "w": 27,
+    "h": 12
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 48
+   }
+  },
+  "attack1/3": {
+   "frame": {
+    "x": 570,
+    "y": 2,
+    "w": 1,
+    "h": 1
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1,
+    "h": 1
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 48
+   }
+  },
+  "attack1/5": {
+   "frame": {
+    "x": 206,
+    "y": 2,
+    "w": 47,
+    "h": 10
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 18,
+    "y": 19,
+    "w": 47,
+    "h": 10
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 48
+   }
+  },
+  "attack1/6": {
+   "frame": {
+    "x": 104,
+    "y": 2,
+    "w": 49,
+    "h": 10
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 16,
+    "y": 20,
+    "w": 49,
+    "h": 10
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 48
+   }
+  },
+  "attack1/7": {
+   "frame": {
+    "x": 155,
+    "y": 2,
+    "w": 49,
+    "h": 10
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 16,
+    "y": 20,
+    "w": 49,
+    "h": 10
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 48
+   }
+  },
+  "attack1/11": {
+   "frame": {
+    "x": 255,
+    "y": 2,
+    "w": 50,
+    "h": 6
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 26,
+    "y": 23,
+    "w": 50,
+    "h": 6
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 48
+   }
+  },
+  "attack1/12": {
+   "frame": {
+    "x": 387,
+    "y": 2,
+    "w": 34,
+    "h": 5
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 47,
+    "y": 23,
+    "w": 34,
+    "h": 5
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 48
+   }
+  },
+  "attack1/13": {
+   "frame": {
+    "x": 307,
+    "y": 2,
+    "w": 28,
+    "h": 6
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 53,
+    "y": 23,
+    "w": 28,
+    "h": 6
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 48
+   }
+  },
+  "attack1/14": {
+   "frame": {
+    "x": 423,
+    "y": 2,
+    "w": 27,
+    "h": 5
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 54,
+    "y": 24,
+    "w": 27,
+    "h": 5
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 48
+   }
+  },
+  "attack1/15": {
+   "frame": {
+    "x": 513,
+    "y": 2,
+    "w": 27,
+    "h": 4
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 53,
+    "y": 24,
+    "w": 27,
+    "h": 4
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 48
+   }
+  },
+  "attack1/16": {
+   "frame": {
+    "x": 337,
+    "y": 2,
+    "w": 48,
+    "h": 5
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 24,
+    "y": 23,
+    "w": 48,
+    "h": 5
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 48
+   }
+  },
+  "attack1/17": {
+   "frame": {
+    "x": 481,
+    "y": 2,
+    "w": 30,
+    "h": 4
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 25,
+    "y": 23,
+    "w": 30,
+    "h": 4
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 48
+   }
+  },
+  "attack1/18": {
+   "frame": {
+    "x": 452,
+    "y": 2,
+    "w": 27,
+    "h": 5
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 26,
+    "y": 22,
+    "w": 27,
+    "h": 5
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 48
+   }
+  },
+  "attack1/19": {
+   "frame": {
+    "x": 542,
+    "y": 2,
+    "w": 26,
+    "h": 3
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 26,
+    "y": 25,
+    "w": 26,
+    "h": 3
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 48
+   }
+  }
+ },
+ "meta": {
+  "image": "nightlord_fx.png",
+  "size": {
+   "w": 573,
+   "h": 20
+  },
+  "scale": "1"
+ }
+}

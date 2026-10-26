@@ -1,0 +1,7607 @@
+{
+ "version": 1,
+ "atlases": {
+  "player": {
+   "image": "sprites/player.png",
+   "json": "sprites/player.json"
+  },
+  "player_fx": {
+   "image": "sprites/player_fx.png",
+   "json": "sprites/player_fx.json"
+  },
+  "striker": {
+   "image": "sprites/striker.png",
+   "json": "sprites/striker.json"
+  },
+  "striker_fx": {
+   "image": "sprites/striker_fx.png",
+   "json": "sprites/striker_fx.json"
+  },
+  "bomaster": {
+   "image": "sprites/bomaster.png",
+   "json": "sprites/bomaster.json"
+  },
+  "goblin": {
+   "image": "sprites/goblin.png",
+   "json": "sprites/goblin.json"
+  },
+  "brute": {
+   "image": "sprites/brute.png",
+   "json": "sprites/brute.json"
+  },
+  "hooded": {
+   "image": "sprites/hooded.png",
+   "json": "sprites/hooded.json"
+  },
+  "hooded_orb": {
+   "image": "sprites/hooded_orb.png",
+   "json": "sprites/hooded_orb.json"
+  },
+  "frog_boss": {
+   "image": "sprites/frog_boss.png",
+   "json": "sprites/frog_boss.json"
+  },
+  "game_master": {
+   "image": "sprites/game_master.png",
+   "json": "sprites/game_master.json"
+  },
+  "nightlord": {
+   "image": "sprites/nightlord.png",
+   "json": "sprites/nightlord.json"
+  },
+  "nightlord_fx": {
+   "image": "sprites/nightlord_fx.png",
+   "json": "sprites/nightlord_fx.json"
+  },
+  "nightlord_hit": {
+   "image": "sprites/nightlord_hit.png",
+   "json": "sprites/nightlord_hit.json"
+  },
+  "tormented_souls": {
+   "image": "sprites/tormented_souls.png",
+   "json": "sprites/tormented_souls.json"
+  },
+  "bat": {
+   "image": "sprites/bat.png",
+   "json": "sprites/bat.json"
+  },
+  "summon_circle": {
+   "image": "sprites/summon_circle.png",
+   "json": "sprites/summon_circle.json"
+  },
+  "dark_spikes": {
+   "image": "sprites/dark_spikes.png",
+   "json": "sprites/dark_spikes.json"
+  },
+  "dark_claws": {
+   "image": "sprites/dark_claws.png",
+   "json": "sprites/dark_claws.json"
+  },
+  "dark_eye": {
+   "image": "sprites/dark_eye.png",
+   "json": "sprites/dark_eye.json"
+  },
+  "thunder_strike": {
+   "image": "sprites/thunder_strike.png",
+   "json": "sprites/thunder_strike.json"
+  },
+  "thunder_splash": {
+   "image": "sprites/thunder_splash.png",
+   "json": "sprites/thunder_splash.json"
+  },
+  "thunder_hit": {
+   "image": "sprites/thunder_hit.png",
+   "json": "sprites/thunder_hit.json"
+  },
+  "missile": {
+   "image": "sprites/missile.png",
+   "json": "sprites/missile.json"
+  },
+  "thrust": {
+   "image": "sprites/thrust.png",
+   "json": "sprites/thrust.json"
+  },
+  "smoke_burst": {
+   "image": "sprites/smoke_burst.png",
+   "json": "sprites/smoke_burst.json"
+  },
+  "smoke_gust": {
+   "image": "sprites/smoke_gust.png",
+   "json": "sprites/smoke_gust.json"
+  },
+  "smoke_gust_small": {
+   "image": "sprites/smoke_gust_small.png",
+   "json": "sprites/smoke_gust_small.json"
+  },
+  "smoke_puff": {
+   "image": "sprites/smoke_puff.png",
+   "json": "sprites/smoke_puff.json"
+  },
+  "smoke_kick": {
+   "image": "sprites/smoke_kick.png",
+   "json": "sprites/smoke_kick.json"
+  },
+  "training_dummy": {
+   "image": "sprites/training_dummy.png",
+   "json": "sprites/training_dummy.json"
+  },
+  "dummy_flash": {
+   "image": "sprites/dummy_flash.png",
+   "json": "sprites/dummy_flash.json"
+  },
+  "dummy_shards": {
+   "image": "sprites/dummy_shards.png",
+   "json": "sprites/dummy_shards.json"
+  },
+  "dummy_stars": {
+   "image": "sprites/dummy_stars.png",
+   "json": "sprites/dummy_stars.json"
+  },
+  "witch": {
+   "image": "sprites/witch.png",
+   "json": "sprites/witch.json"
+  },
+  "witch_fireball": {
+   "image": "sprites/witch_fireball.png",
+   "json": "sprites/witch_fireball.json"
+  },
+  "witch_ember": {
+   "image": "sprites/witch_ember.png",
+   "json": "sprites/witch_ember.json"
+  },
+  "witch_infierno": {
+   "image": "sprites/witch_infierno.png",
+   "json": "sprites/witch_infierno.json"
+  },
+  "witch_icepillar": {
+   "image": "sprites/witch_icepillar.png",
+   "json": "sprites/witch_icepillar.json"
+  },
+  "witch_ice": {
+   "image": "sprites/witch_ice.png",
+   "json": "sprites/witch_ice.json"
+  },
+  "witch_strike": {
+   "image": "sprites/witch_strike.png",
+   "json": "sprites/witch_strike.json"
+  },
+  "witch_volcano": {
+   "image": "sprites/witch_volcano.png",
+   "json": "sprites/witch_volcano.json"
+  },
+  "witch_blackhole": {
+   "image": "sprites/witch_blackhole.png",
+   "json": "sprites/witch_blackhole.json"
+  },
+  "witch_burst": {
+   "image": "sprites/witch_burst.png",
+   "json": "sprites/witch_burst.json"
+  },
+  "witch_bolt": {
+   "image": "sprites/witch_bolt.png",
+   "json": "sprites/witch_bolt.json"
+  },
+  "witch_lance": {
+   "image": "sprites/witch_lance.png",
+   "json": "sprites/witch_lance.json"
+  },
+  "witch_lance_tip": {
+   "image": "sprites/witch_lance_tip.png",
+   "json": "sprites/witch_lance_tip.json"
+  },
+  "witch_lance_ring": {
+   "image": "sprites/witch_lance_ring.png",
+   "json": "sprites/witch_lance_ring.json"
+  },
+  "witch_breath": {
+   "image": "sprites/witch_breath.png",
+   "json": "sprites/witch_breath.json"
+  },
+  "witch_flame": {
+   "image": "sprites/witch_flame.png",
+   "json": "sprites/witch_flame.json"
+  },
+  "witch_breath_hit": {
+   "image": "sprites/witch_breath_hit.png",
+   "json": "sprites/witch_breath_hit.json"
+  },
+  "witch_circle": {
+   "image": "sprites/witch_circle.png",
+   "json": "sprites/witch_circle.json"
+  },
+  "witch_impulse": {
+   "image": "sprites/witch_impulse.png",
+   "json": "sprites/witch_impulse.json"
+  },
+  "witch_dashfire": {
+   "image": "sprites/witch_dashfire.png",
+   "json": "sprites/witch_dashfire.json"
+  },
+  "witch_shock": {
+   "image": "sprites/witch_shock.png",
+   "json": "sprites/witch_shock.json"
+  },
+  "witch_firehit": {
+   "image": "sprites/witch_firehit.png",
+   "json": "sprites/witch_firehit.json"
+  },
+  "witch_spark": {
+   "image": "sprites/witch_spark.png",
+   "json": "sprites/witch_spark.json"
+  },
+  "witch_frost": {
+   "image": "sprites/witch_frost.png",
+   "json": "sprites/witch_frost.json"
+  },
+  "tileset": {
+   "image": "pieces/tileset.png",
+   "json": "pieces/tileset.json"
+  },
+  "ui_bars": {
+   "image": "pieces/ui_bars.png",
+   "json": "pieces/ui_bars.json"
+  },
+  "stage_fx": {
+   "image": "pieces/stage_fx.png",
+   "json": "pieces/stage_fx.json"
+  }
+ },
+ "sprites": {
+  "player": {
+   "atlas": "player",
+   "frameWidth": 288,
+   "frameHeight": 96,
+   "origin": {
+    "x": 144,
+    "y": 80
+   },
+   "artFacing": "right",
+   "animations": {
+    "idle": {
+     "frames": [
+      "idle/0",
+      "idle/1",
+      "idle/2",
+      "idle/3",
+      "idle/4",
+      "idle/5"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+     ]
+    },
+    "running": {
+     "frames": [
+      "running/0",
+      "running/1",
+      "running/2",
+      "running/3",
+      "running/4",
+      "running/5"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+     ]
+    },
+    "jump": {
+     "frames": [
+      "idle/0",
+      "jump/1",
+      "jump/2",
+      "jump/3",
+      "jump/4",
+      "jump/5",
+      "jump/6",
+      "jump/7",
+      "jump/8",
+      "jump/9",
+      "jump/10"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+     ]
+    },
+    "jump_up": {
+     "frames": [
+      "jump/3",
+      "jump/4",
+      "jump/5"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80
+     ]
+    },
+    "jump_down": {
+     "frames": [
+      "jump/6",
+      "jump/7",
+      "jump/8"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80
+     ]
+    },
+    "wall_slide": {
+     "frames": [
+      "wall_slide/0",
+      "wall_slide/1",
+      "wall_slide/2"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80
+     ]
+    },
+    "attack1": {
+     "frames": [
+      "attack1/0",
+      "attack1/1",
+      "attack1/2",
+      "attack1/3",
+      "attack1/0"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80,
+      80
+     ]
+    },
+    "attack2": {
+     "frames": [
+      "idle/0",
+      "attack2/1",
+      "attack2/2",
+      "attack2/3",
+      "attack2/4",
+      "attack2/5",
+      "attack2/6",
+      "attack2/7",
+      "attack2/8",
+      "attack2/9",
+      "attack2/10",
+      "attack2/11",
+      "attack2/12",
+      "attack2/13",
+      "attack2/14",
+      "attack2/15"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+     ]
+    },
+    "attack2_loop": {
+     "frames": [
+      "attack2/8",
+      "attack2/9",
+      "attack2/10"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80
+     ]
+    },
+    "attack3": {
+     "frames": [
+      "idle/0",
+      "attack2/1",
+      "attack3/2",
+      "attack3/3",
+      "attack3/4",
+      "attack3/5",
+      "attack3/6",
+      "attack3/7",
+      "attack3/8",
+      "attack3/9",
+      "attack3/10",
+      "attack3/11",
+      "attack3/12",
+      "attack3/13",
+      "attack3/14",
+      "attack3/15",
+      "attack3/16"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+     ]
+    },
+    "attack4": {
+     "frames": [
+      "attack4/0",
+      "attack4/1",
+      "attack4/2",
+      "attack4/3",
+      "attack4/4",
+      "attack4/5",
+      "attack4/6",
+      "attack4/7",
+      "attack4/8"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+     ]
+    },
+    "buff": {
+     "frames": [
+      "idle/0",
+      "idle/1",
+      "idle/2",
+      "idle/3",
+      "idle/4",
+      "idle/5",
+      "idle/0",
+      "idle/1",
+      "idle/3",
+      "idle/4",
+      "idle/5",
+      "idle/0",
+      "idle/0",
+      "idle/0",
+      "idle/0",
+      "idle/0"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+     ]
+    },
+    "defeat": {
+     "frames": [
+      "idle/0",
+      "defeat/1",
+      "defeat/2",
+      "defeat/3",
+      "defeat/4",
+      "defeat/5",
+      "defeat/6",
+      "defeat/7",
+      "defeat/7"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+     ]
+    }
+   }
+  },
+  "player_fx": {
+   "atlas": "player_fx",
+   "frameWidth": 288,
+   "frameHeight": 96,
+   "origin": {
+    "x": 144,
+    "y": 80
+   },
+   "artFacing": "right",
+   "animations": {
+    "idle": {
+     "frames": [
+      "idle/0",
+      "idle/1",
+      "idle/1",
+      "idle/1",
+      "idle/1",
+      "idle/0"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+     ]
+    },
+    "running": {
+     "frames": [
+      "running/0",
+      "running/1",
+      "idle/0",
+      "running/0",
+      "running/1",
+      "idle/0"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+     ]
+    },
+    "jump": {
+     "frames": [
+      "idle/0",
+      "idle/1",
+      "idle/1",
+      "jump/3",
+      "jump/3",
+      "jump/3",
+      "jump/6",
+      "jump/6",
+      "jump/6",
+      "idle/1",
+      "idle/1"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+     ]
+    },
+    "jump_up": {
+     "frames": [
+      "jump/3",
+      "jump/3",
+      "jump/3"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80
+     ]
+    },
+    "jump_down": {
+     "frames": [
+      "jump/6",
+      "jump/6",
+      "jump/6"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80
+     ]
+    },
+    "wall_slide": {
+     "frames": [
+      "wall_slide/0",
+      "wall_slide/1",
+      "wall_slide/2"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80
+     ]
+    },
+    "attack1": {
+     "frames": [
+      "idle/0",
+      "attack1/1",
+      "attack1/2",
+      "attack1/3",
+      "attack1/4"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80,
+      80
+     ]
+    },
+    "attack2": {
+     "frames": [
+      "idle/0",
+      "idle/1",
+      "idle/1",
+      "idle/1",
+      "attack2/4",
+      "attack2/5",
+      "attack2/6",
+      "attack2/7",
+      "attack2/8",
+      "attack2/9",
+      "attack2/10",
+      "attack2/11",
+      "attack2/12",
+      "attack2/13",
+      "attack2/14",
+      "attack2/15"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+     ]
+    },
+    "attack2_loop": {
+     "frames": [
+      "attack2/8",
+      "attack2/9",
+      "attack2/10"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80
+     ]
+    },
+    "attack3": {
+     "frames": [
+      "idle/0",
+      "idle/1",
+      "idle/1",
+      "idle/1",
+      "idle/1",
+      "idle/1",
+      "idle/1",
+      "idle/1",
+      "attack3/8",
+      "attack3/9",
+      "idle/1",
+      "attack3/11",
+      "attack3/12",
+      "attack3/13",
+      "attack3/14",
+      "attack3/15",
+      "attack3/16"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+     ]
+    },
+    "attack4": {
+     "frames": [
+      "idle/0",
+      "idle/0",
+      "idle/1",
+      "idle/1",
+      "idle/1",
+      "attack4/5",
+      "attack4/6",
+      "attack4/7",
+      "attack4/8"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+     ]
+    },
+    "buff": {
+     "frames": [
+      "buff/0",
+      "buff/1",
+      "buff/2",
+      "buff/3",
+      "buff/4",
+      "buff/5",
+      "buff/6",
+      "buff/7",
+      "buff/8",
+      "buff/9",
+      "buff/10",
+      "buff/11",
+      "buff/12",
+      "buff/13",
+      "buff/14",
+      "buff/0"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+     ]
+    },
+    "defeat": {
+     "frames": [
+      "idle/0",
+      "defeat/1",
+      "defeat/2",
+      "defeat/3",
+      "defeat/4",
+      "defeat/5",
+      "defeat/6",
+      "defeat/7",
+      "defeat/8"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+     ]
+    }
+   }
+  },
+  "striker": {
+   "atlas": "striker",
+   "frameWidth": 192,
+   "frameHeight": 96,
+   "origin": {
+    "x": 96,
+    "y": 80
+   },
+   "artFacing": "right",
+   "animations": {
+    "idle": {
+     "frames": [
+      "idle/0",
+      "idle/1",
+      "idle/2",
+      "idle/3",
+      "idle/4",
+      "idle/5"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    },
+    "running": {
+     "frames": [
+      "running/0",
+      "running/1",
+      "running/2",
+      "running/3",
+      "running/4",
+      "running/5"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    },
+    "jump": {
+     "frames": [
+      "jump/0",
+      "jump/1",
+      "jump/2",
+      "jump/3",
+      "jump/4",
+      "jump/5",
+      "jump/6",
+      "jump/7",
+      "jump/8",
+      "jump/9",
+      "jump/10"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+     ]
+    },
+    "jump_up": {
+     "frames": [
+      "jump/3",
+      "jump/4",
+      "jump/5",
+      "jump/6"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80
+     ]
+    },
+    "jump_down": {
+     "frames": [
+      "jump/7",
+      "jump/8",
+      "jump/9",
+      "jump/10"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80
+     ]
+    },
+    "wall_slide": {
+     "frames": [
+      "wall_slide/0",
+      "wall_slide/1",
+      "wall_slide/2",
+      "wall_slide/3",
+      "wall_slide/4"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    },
+    "attack1": {
+     "frames": [
+      "jump/0",
+      "jump/1",
+      "jump/2",
+      "attack1/3",
+      "attack1/4",
+      "attack1/5",
+      "attack1/6",
+      "attack1/7",
+      "attack1/8",
+      "attack1/9"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+     ]
+    },
+    "attack2": {
+     "frames": [
+      "jump/0",
+      "jump/1",
+      "jump/2",
+      "attack1/3",
+      "attack2/4",
+      "attack2/5",
+      "attack2/6",
+      "attack1/8",
+      "attack1/9"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      80,
+      100,
+      100,
+      100,
+      80,
+      80
+     ]
+    },
+    "attack3": {
+     "frames": [
+      "jump/0",
+      "jump/1",
+      "jump/2",
+      "attack1/3",
+      "attack3/4",
+      "attack3/5",
+      "attack3/6",
+      "attack3/7",
+      "attack3/8",
+      "attack3/9",
+      "attack2/6",
+      "attack3/11",
+      "attack1/9"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+     ]
+    },
+    "spin": {
+     "frames": [
+      "attack3/4",
+      "attack3/5",
+      "attack3/6",
+      "attack3/7"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80
+     ]
+    },
+    "attack4": {
+     "frames": [
+      "jump/0",
+      "jump/1",
+      "jump/2",
+      "attack1/3",
+      "attack4/4",
+      "attack4/5",
+      "attack4/6",
+      "attack4/7",
+      "attack2/5",
+      "attack4/9",
+      "attack1/8",
+      "attack1/9"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+     ]
+    },
+    "buff": {
+     "frames": [
+      "idle/0",
+      "idle/0",
+      "idle/0",
+      "idle/0",
+      "idle/0",
+      "idle/0",
+      "idle/0",
+      "idle/0",
+      "idle/0",
+      "buff/9",
+      "buff/10",
+      "buff/11",
+      "buff/12",
+      "idle/0",
+      "idle/0",
+      "idle/0"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+     ]
+    },
+    "defeat": {
+     "frames": [
+      "idle/0",
+      "defeat/1",
+      "defeat/2",
+      "defeat/3",
+      "defeat/4",
+      "defeat/5",
+      "defeat/6",
+      "defeat/6",
+      "defeat/6"
+     ],
+     "durationsMs": [
+      100,
+      80,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    }
+   }
+  },
+  "striker_fx": {
+   "atlas": "striker_fx",
+   "frameWidth": 192,
+   "frameHeight": 96,
+   "origin": {
+    "x": 96,
+    "y": 80
+   },
+   "artFacing": "right",
+   "animations": {
+    "idle": {
+     "frames": [
+      "idle/0",
+      "idle/0",
+      "idle/0",
+      "idle/0",
+      "idle/0",
+      "idle/0"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    },
+    "running": {
+     "frames": [
+      "idle/0",
+      "idle/0",
+      "idle/0",
+      "idle/0",
+      "idle/0",
+      "idle/0"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    },
+    "jump": {
+     "frames": [
+      "idle/0",
+      "idle/0",
+      "idle/0",
+      "idle/0",
+      "idle/0",
+      "idle/0",
+      "idle/0",
+      "idle/0",
+      "idle/0",
+      "idle/0",
+      "idle/0"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+     ]
+    },
+    "jump_up": {
+     "frames": [
+      "idle/0",
+      "idle/0",
+      "idle/0",
+      "idle/0"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80
+     ]
+    },
+    "jump_down": {
+     "frames": [
+      "idle/0",
+      "idle/0",
+      "idle/0",
+      "idle/0"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80
+     ]
+    },
+    "wall_slide": {
+     "frames": [
+      "wall_slide/0",
+      "wall_slide/1",
+      "wall_slide/2",
+      "wall_slide/3",
+      "wall_slide/4"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    },
+    "attack1": {
+     "frames": [
+      "idle/0",
+      "idle/0",
+      "idle/0",
+      "attack1/3",
+      "attack1/4",
+      "attack1/5",
+      "attack1/6",
+      "idle/0",
+      "idle/0",
+      "idle/0"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+     ]
+    },
+    "attack2": {
+     "frames": [
+      "idle/0",
+      "idle/0",
+      "idle/0",
+      "idle/0",
+      "idle/0",
+      "attack2/5",
+      "attack2/6",
+      "attack2/7",
+      "attack2/8"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      80,
+      100,
+      100,
+      100,
+      80,
+      80
+     ]
+    },
+    "attack3": {
+     "frames": [
+      "idle/0",
+      "idle/0",
+      "idle/0",
+      "attack1/3",
+      "attack3/4",
+      "attack3/5",
+      "attack3/6",
+      "attack3/7",
+      "attack3/8",
+      "attack3/9",
+      "attack3/10",
+      "idle/0",
+      "idle/0"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+     ]
+    },
+    "spin": {
+     "frames": [
+      "attack3/4",
+      "attack3/5",
+      "attack3/6",
+      "attack3/7"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80
+     ]
+    },
+    "attack4": {
+     "frames": [
+      "idle/0",
+      "idle/0",
+      "idle/0",
+      "attack1/3",
+      "attack4/4",
+      "attack4/5",
+      "idle/0",
+      "idle/0",
+      "idle/0",
+      "idle/0",
+      "idle/0",
+      "idle/0"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+     ]
+    },
+    "buff": {
+     "frames": [
+      "buff/0",
+      "buff/1",
+      "buff/2",
+      "buff/3",
+      "buff/4",
+      "buff/5",
+      "buff/6",
+      "buff/7",
+      "buff/8",
+      "buff/9",
+      "buff/10",
+      "buff/11",
+      "buff/12",
+      "buff/13",
+      "buff/14",
+      "buff/15"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+     ]
+    },
+    "defeat": {
+     "frames": [
+      "idle/0",
+      "idle/0",
+      "idle/0",
+      "idle/0",
+      "defeat/4",
+      "defeat/5",
+      "defeat/6",
+      "defeat/7",
+      "idle/0"
+     ],
+     "durationsMs": [
+      100,
+      80,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    }
+   }
+  },
+  "bomaster": {
+   "atlas": "bomaster",
+   "frameWidth": 192,
+   "frameHeight": 96,
+   "origin": {
+    "x": 96,
+    "y": 80
+   },
+   "artFacing": "right",
+   "animations": {
+    "idle": {
+     "frames": [
+      "idle/0",
+      "idle/1",
+      "idle/2",
+      "idle/3",
+      "idle/4"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    },
+    "running": {
+     "frames": [
+      "running/0",
+      "running/1",
+      "running/2",
+      "running/3",
+      "running/4",
+      "running/5"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    },
+    "jump": {
+     "frames": [
+      "idle/0",
+      "jump/1",
+      "jump/2",
+      "jump/3",
+      "jump/4",
+      "jump/5",
+      "jump/6",
+      "jump/7",
+      "jump/8",
+      "jump/9",
+      "jump/10",
+      "jump/11",
+      "jump/12",
+      "jump/13"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    },
+    "jump_up": {
+     "frames": [
+      "jump/4",
+      "jump/5",
+      "jump/6",
+      "jump/7",
+      "jump/8"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    },
+    "jump_down": {
+     "frames": [
+      "jump/9",
+      "jump/10",
+      "jump/11",
+      "jump/12",
+      "jump/13"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    },
+    "wall_slide": {
+     "frames": [
+      "wall_slide/0",
+      "wall_slide/1",
+      "wall_slide/2",
+      "wall_slide/3",
+      "wall_slide/4",
+      "wall_slide/5",
+      "wall_slide/6",
+      "wall_slide/7",
+      "wall_slide/8"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    },
+    "attack1": {
+     "frames": [
+      "idle/0",
+      "attack1/1",
+      "attack1/2",
+      "attack1/3",
+      "attack1/4",
+      "attack1/5",
+      "attack1/6",
+      "attack1/7",
+      "attack1/8"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    },
+    "attack2": {
+     "frames": [
+      "idle/0",
+      "attack2/1",
+      "attack2/2",
+      "attack2/3",
+      "attack2/4",
+      "attack2/5",
+      "attack2/6",
+      "attack2/7",
+      "attack2/8",
+      "attack2/9",
+      "attack2/10",
+      "attack2/11",
+      "attack2/12",
+      "attack2/13",
+      "attack2/14",
+      "attack2/15",
+      "attack2/16",
+      "attack2/17",
+      "attack2/18",
+      "attack2/19",
+      "attack2/20",
+      "attack2/21"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    },
+    "attack3": {
+     "frames": [
+      "jump/1",
+      "attack3/1",
+      "attack3/2",
+      "attack3/3",
+      "attack3/4",
+      "attack3/5",
+      "attack3/6",
+      "attack3/7",
+      "attack3/8",
+      "attack3/9",
+      "attack3/10",
+      "attack3/11",
+      "attack3/12",
+      "attack3/13",
+      "attack3/14",
+      "attack3/15"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    },
+    "attack4": {
+     "frames": [
+      "idle/0",
+      "attack4/1",
+      "attack4/2",
+      "attack4/3",
+      "attack4/4",
+      "attack4/5",
+      "attack4/6",
+      "attack4/7",
+      "attack4/8"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    },
+    "air_smash": {
+     "frames": [
+      "air_smash/0",
+      "air_smash/1",
+      "air_smash/2",
+      "air_smash/3",
+      "air_smash/4",
+      "air_smash/5",
+      "air_smash/6",
+      "air_smash/7"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    },
+    "buff": {
+     "frames": [
+      "buff/0",
+      "buff/1",
+      "buff/2",
+      "buff/3",
+      "buff/4",
+      "buff/5",
+      "buff/6",
+      "buff/7",
+      "buff/8",
+      "buff/9",
+      "buff/10",
+      "buff/11",
+      "buff/12",
+      "buff/13",
+      "buff/14",
+      "buff/15",
+      "buff/16",
+      "buff/17",
+      "buff/18",
+      "buff/19",
+      "buff/20",
+      "buff/21",
+      "buff/22",
+      "buff/23"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    },
+    "defeat": {
+     "frames": [
+      "defeat/0",
+      "defeat/1",
+      "defeat/2",
+      "defeat/3",
+      "defeat/4",
+      "defeat/5",
+      "defeat/6",
+      "defeat/7",
+      "defeat/8",
+      "defeat/9"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    }
+   }
+  },
+  "goblin": {
+   "atlas": "goblin",
+   "frameWidth": 64,
+   "frameHeight": 64,
+   "origin": {
+    "x": 32,
+    "y": 48
+   },
+   "artFacing": "right",
+   "animations": {
+    "idle": {
+     "frames": [
+      "idle/0",
+      "idle/1",
+      "idle/2",
+      "idle/3",
+      "idle/4",
+      "idle/5"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    },
+    "run": {
+     "frames": [
+      "run/0",
+      "run/1",
+      "run/2",
+      "run/3",
+      "run/4",
+      "run/5"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    },
+    "attack": {
+     "frames": [
+      "idle/0",
+      "attack/1",
+      "attack/2",
+      "attack/3",
+      "attack/4",
+      "attack/5"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    },
+    "hurt": {
+     "frames": [
+      "idle/0",
+      "hurt/1",
+      "hurt/2"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100
+     ]
+    },
+    "death": {
+     "frames": [
+      "idle/0",
+      "death/1",
+      "death/2",
+      "death/3",
+      "death/4",
+      "death/5"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    },
+    "spawn": {
+     "frames": [
+      "spawn/0",
+      "spawn/1",
+      "spawn/2",
+      "spawn/3",
+      "spawn/4",
+      "spawn/5",
+      "spawn/6",
+      "spawn/7",
+      "spawn/8",
+      "spawn/9"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    }
+   }
+  },
+  "brute": {
+   "atlas": "brute",
+   "frameWidth": 192,
+   "frameHeight": 96,
+   "origin": {
+    "x": 96,
+    "y": 80
+   },
+   "artFacing": "left",
+   "animations": {
+    "idle": {
+     "frames": [
+      "idle/0",
+      "idle/1",
+      "idle/2",
+      "idle/3",
+      "idle/4",
+      "idle/5"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    },
+    "walk": {
+     "frames": [
+      "walk/0",
+      "walk/1",
+      "walk/2",
+      "walk/3",
+      "walk/4",
+      "walk/5",
+      "walk/6",
+      "walk/7",
+      "walk/8"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    },
+    "attack": {
+     "frames": [
+      "attack/0",
+      "attack/1",
+      "attack/2",
+      "attack/3",
+      "attack/4",
+      "attack/5",
+      "attack/6",
+      "attack/7",
+      "attack/8",
+      "attack/9",
+      "attack/10"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    },
+    "hurt": {
+     "frames": [
+      "hurt/0",
+      "hurt/1",
+      "hurt/2"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100
+     ]
+    },
+    "death": {
+     "frames": [
+      "death/0",
+      "death/1",
+      "death/2",
+      "death/3",
+      "death/4",
+      "death/5",
+      "death/6",
+      "death/7",
+      "death/8",
+      "death/9"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    },
+    "spawn": {
+     "frames": [
+      "spawn/0",
+      "spawn/1",
+      "spawn/2",
+      "spawn/3",
+      "spawn/4",
+      "spawn/5",
+      "spawn/6",
+      "spawn/7",
+      "spawn/8"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    }
+   }
+  },
+  "hooded": {
+   "atlas": "hooded",
+   "frameWidth": 192,
+   "frameHeight": 96,
+   "origin": {
+    "x": 96,
+    "y": 80
+   },
+   "artFacing": "right",
+   "animations": {
+    "idle": {
+     "frames": [
+      "idle/0",
+      "idle/1",
+      "idle/2",
+      "idle/3",
+      "idle/4"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    },
+    "walk": {
+     "frames": [
+      "walk/0",
+      "walk/1",
+      "walk/2",
+      "walk/3",
+      "walk/4"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    },
+    "attack": {
+     "frames": [
+      "attack/0",
+      "attack/1",
+      "attack/2",
+      "attack/3",
+      "attack/4",
+      "attack/5",
+      "attack/6",
+      "attack/7",
+      "attack/8"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    },
+    "attack_no_projectile": {
+     "frames": [
+      "attack/0",
+      "attack/1",
+      "attack/2",
+      "attack/3",
+      "attack_no_projectile/4",
+      "attack_no_projectile/5",
+      "attack_no_projectile/6",
+      "attack_no_projectile/7",
+      "attack_no_projectile/8"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    },
+    "hurt": {
+     "frames": [
+      "hurt/0",
+      "hurt/1",
+      "hurt/2"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100
+     ]
+    },
+    "death": {
+     "frames": [
+      "death/0",
+      "death/1",
+      "death/2",
+      "death/3",
+      "death/4",
+      "death/5",
+      "death/6",
+      "death/7",
+      "death/8"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    },
+    "spawn": {
+     "frames": [
+      "spawn/0",
+      "spawn/1",
+      "spawn/2",
+      "spawn/3",
+      "spawn/4",
+      "spawn/5",
+      "spawn/6"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    }
+   }
+  },
+  "hooded_orb": {
+   "atlas": "hooded_orb",
+   "frameWidth": 32,
+   "frameHeight": 32,
+   "origin": {
+    "x": 16,
+    "y": 16
+   },
+   "artFacing": "right",
+   "animations": {
+    "orb": {
+     "frames": [
+      "orb/0",
+      "orb/1",
+      "orb/2",
+      "orb/3",
+      "orb/4"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    }
+   }
+  },
+  "frog_boss": {
+   "atlas": "frog_boss",
+   "frameWidth": 116,
+   "frameHeight": 138,
+   "origin": {
+    "x": 57,
+    "y": 133
+   },
+   "artFacing": "right",
+   "animations": {
+    "idle": {
+     "frames": [
+      "idle/0",
+      "idle/0"
+     ],
+     "durationsMs": [
+      300,
+      300
+     ]
+    },
+    "burp": {
+     "frames": [
+      "burp/0",
+      "burp/0",
+      "idle/0",
+      "idle/0"
+     ],
+     "durationsMs": [
+      90,
+      90,
+      90,
+      90
+     ]
+    },
+    "hop": {
+     "frames": [
+      "hop/0",
+      "hop/0",
+      "hop/2",
+      "hop/2",
+      "hop/4",
+      "hop/4",
+      "hop/6",
+      "hop/6",
+      "hop/8",
+      "hop/8",
+      "hop/10",
+      "hop/10",
+      "hop/12",
+      "hop/12",
+      "hop/14",
+      "hop/14",
+      "hop/16",
+      "hop/16",
+      "burp/0",
+      "burp/0",
+      "idle/0",
+      "idle/0"
+     ],
+     "durationsMs": [
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+     ]
+    },
+    "jump": {
+     "frames": [
+      "jump/0",
+      "jump/0",
+      "jump/2",
+      "jump/2",
+      "jump/4",
+      "jump/4",
+      "jump/2",
+      "jump/2",
+      "jump/8",
+      "jump/8",
+      "jump/2",
+      "jump/2",
+      "jump/12",
+      "jump/12",
+      "jump/14",
+      "jump/14",
+      "jump/16",
+      "jump/16",
+      "jump/18",
+      "jump/18",
+      "jump/20",
+      "jump/20",
+      "jump/22",
+      "jump/22",
+      "jump/24",
+      "jump/24",
+      "jump/26",
+      "jump/26",
+      "jump/28",
+      "jump/28",
+      "jump/30",
+      "jump/30",
+      "jump/32",
+      "jump/32",
+      "jump/34",
+      "jump/34",
+      "jump/36",
+      "jump/36",
+      "jump/38",
+      "jump/38"
+     ],
+     "durationsMs": [
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+     ]
+    }
+   }
+  },
+  "game_master": {
+   "atlas": "game_master",
+   "frameWidth": 173,
+   "frameHeight": 156,
+   "origin": {
+    "x": 73,
+    "y": 135
+   },
+   "artFacing": "right",
+   "animations": {
+    "idle": {
+     "frames": [
+      "idle/0",
+      "idle/0",
+      "idle/2",
+      "idle/2",
+      "idle/4",
+      "idle/4",
+      "idle/6",
+      "idle/6",
+      "idle/8",
+      "idle/8",
+      "idle/10",
+      "idle/10",
+      "idle/12",
+      "idle/12",
+      "idle/14",
+      "idle/14",
+      "idle/16",
+      "idle/16",
+      "idle/18",
+      "idle/18",
+      "idle/20",
+      "idle/20",
+      "idle/22",
+      "idle/22",
+      "idle/24",
+      "idle/24",
+      "idle/26",
+      "idle/26",
+      "idle/28",
+      "idle/28",
+      "idle/30",
+      "idle/30",
+      "idle/32",
+      "idle/32",
+      "idle/34",
+      "idle/34",
+      "idle/36",
+      "idle/36",
+      "idle/38",
+      "idle/38",
+      "idle/40",
+      "idle/40",
+      "idle/42",
+      "idle/42",
+      "idle/44",
+      "idle/44",
+      "idle/46",
+      "idle/46"
+     ],
+     "durationsMs": [
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+     ]
+    },
+    "attack": {
+     "frames": [
+      "attack/0",
+      "attack/0",
+      "attack/2",
+      "attack/2",
+      "attack/4",
+      "attack/4",
+      "attack/6",
+      "attack/6",
+      "attack/8",
+      "attack/8",
+      "attack/10",
+      "attack/10",
+      "attack/12",
+      "attack/12",
+      "attack/14",
+      "attack/14",
+      "attack/16",
+      "attack/16",
+      "attack/18",
+      "attack/18",
+      "attack/20",
+      "attack/20",
+      "attack/22",
+      "attack/22",
+      "attack/24",
+      "attack/24",
+      "attack/26",
+      "attack/26",
+      "attack/28",
+      "attack/28",
+      "attack/30",
+      "attack/30",
+      "attack/32",
+      "attack/32",
+      "attack/34",
+      "attack/34",
+      "attack/36",
+      "attack/36",
+      "attack/38",
+      "attack/38",
+      "attack/40",
+      "attack/40",
+      "attack/42",
+      "attack/42",
+      "attack/44",
+      "attack/44",
+      "attack/46",
+      "attack/46"
+     ],
+     "durationsMs": [
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+     ]
+    },
+    "upgrade": {
+     "frames": [
+      "upgrade/0",
+      "upgrade/0",
+      "upgrade/2",
+      "upgrade/2",
+      "upgrade/4",
+      "upgrade/4",
+      "upgrade/6",
+      "upgrade/6",
+      "upgrade/8",
+      "upgrade/8",
+      "upgrade/10",
+      "upgrade/10",
+      "upgrade/12",
+      "upgrade/12",
+      "upgrade/14",
+      "upgrade/14",
+      "upgrade/16",
+      "upgrade/16",
+      "upgrade/18",
+      "upgrade/18",
+      "upgrade/20",
+      "upgrade/20",
+      "upgrade/22",
+      "upgrade/22",
+      "upgrade/24",
+      "upgrade/24",
+      "upgrade/26",
+      "upgrade/26",
+      "upgrade/28",
+      "upgrade/28",
+      "upgrade/30",
+      "upgrade/30",
+      "upgrade/32",
+      "upgrade/32",
+      "upgrade/34",
+      "upgrade/34",
+      "upgrade/36",
+      "upgrade/36",
+      "upgrade/38",
+      "upgrade/38"
+     ],
+     "durationsMs": [
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+     ]
+    }
+   }
+  },
+  "nightlord": {
+   "atlas": "nightlord",
+   "frameWidth": 83,
+   "frameHeight": 48,
+   "origin": {
+    "x": 38,
+    "y": 41
+   },
+   "artFacing": "right",
+   "animations": {
+    "idle": {
+     "frames": [
+      "idle/0",
+      "idle/1",
+      "idle/2",
+      "idle/3",
+      "idle/4",
+      "idle/5",
+      "idle/6",
+      "idle/7",
+      "idle/8",
+      "idle/9",
+      "idle/10",
+      "idle/11",
+      "idle/12",
+      "idle/13"
+     ],
+     "durationsMs": [
+      110,
+      110,
+      110,
+      110,
+      110,
+      110,
+      110,
+      110,
+      110,
+      110,
+      110,
+      110,
+      110,
+      110
+     ]
+    },
+    "running": {
+     "frames": [
+      "running/0",
+      "running/1",
+      "running/2",
+      "running/3",
+      "running/4",
+      "running/5",
+      "running/6",
+      "running/7",
+      "running/8",
+      "running/9"
+     ],
+     "durationsMs": [
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70
+     ]
+    },
+    "jump": {
+     "frames": [
+      "jump/0",
+      "jump/1",
+      "jump/2",
+      "jump/3",
+      "jump/4",
+      "jump/5",
+      "jump/6",
+      "jump/7",
+      "jump/8",
+      "jump/9",
+      "jump/10",
+      "jump/11",
+      "jump/12",
+      "jump/13",
+      "jump/14",
+      "jump/15",
+      "idle/3"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+     ]
+    },
+    "fly": {
+     "frames": [
+      "fly/0",
+      "fly/1",
+      "fly/2",
+      "fly/3"
+     ],
+     "durationsMs": [
+      110,
+      110,
+      110,
+      110
+     ]
+    },
+    "attack1": {
+     "frames": [
+      "attack1/0",
+      "attack1/1",
+      "attack1/2",
+      "attack1/3",
+      "attack1/4",
+      "attack1/5",
+      "attack1/6",
+      "attack1/7",
+      "attack1/8",
+      "attack1/9",
+      "attack1/10",
+      "attack1/11",
+      "attack1/12",
+      "attack1/13",
+      "attack1/14",
+      "attack1/15",
+      "attack1/16",
+      "attack1/17",
+      "attack1/18",
+      "attack1/19",
+      "attack1/20",
+      "attack1/21",
+      "attack1/22",
+      "attack1/23",
+      "attack1/24"
+     ],
+     "durationsMs": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+     ]
+    },
+    "grab": {
+     "frames": [
+      "grab/0",
+      "grab/1",
+      "grab/2",
+      "grab/3",
+      "grab/4",
+      "grab/5",
+      "grab/6",
+      "grab/7",
+      "grab/8",
+      "grab/9",
+      "grab/10",
+      "grab/11",
+      "grab/12"
+     ],
+     "durationsMs": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+     ]
+    },
+    "choke": {
+     "frames": [
+      "choke/0",
+      "choke/1",
+      "choke/2",
+      "choke/3",
+      "choke/4",
+      "choke/5",
+      "choke/6",
+      "choke/7",
+      "choke/8",
+      "choke/9",
+      "choke/10",
+      "choke/11"
+     ],
+     "durationsMs": [
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70
+     ]
+    },
+    "dash": {
+     "frames": [
+      "dash/0",
+      "dash/1",
+      "dash/2",
+      "dash/3",
+      "dash/4",
+      "dash/5",
+      "dash/6",
+      "dash/7",
+      "dash/8",
+      "dash/9",
+      "dash/10",
+      "dash/11",
+      "dash/12"
+     ],
+     "durationsMs": [
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+     ]
+    },
+    "lightcast": {
+     "frames": [
+      "attack1/0",
+      "lightcast/1",
+      "lightcast/2",
+      "lightcast/3",
+      "lightcast/4",
+      "lightcast/5",
+      "lightcast/6",
+      "lightcast/7",
+      "lightcast/8",
+      "lightcast/5",
+      "lightcast/6",
+      "lightcast/7",
+      "lightcast/8",
+      "lightcast/5",
+      "lightcast/6",
+      "lightcast/7",
+      "lightcast/8",
+      "lightcast/17",
+      "lightcast/18",
+      "lightcast/19",
+      "lightcast/20",
+      "lightcast/21",
+      "lightcast/22",
+      "lightcast/23",
+      "lightcast/24",
+      "lightcast/25",
+      "lightcast/26"
+     ],
+     "durationsMs": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+     ]
+    },
+    "heavycast": {
+     "frames": [
+      "attack1/0",
+      "heavycast/1",
+      "heavycast/2",
+      "heavycast/3",
+      "heavycast/4",
+      "heavycast/5",
+      "heavycast/6",
+      "heavycast/7",
+      "heavycast/8",
+      "heavycast/9",
+      "heavycast/10",
+      "heavycast/11",
+      "heavycast/12",
+      "heavycast/13",
+      "heavycast/14",
+      "heavycast/15",
+      "heavycast/16",
+      "heavycast/17",
+      "heavycast/18",
+      "heavycast/19",
+      "heavycast/20",
+      "heavycast/21",
+      "heavycast/22",
+      "heavycast/23",
+      "heavycast/24",
+      "heavycast/25",
+      "heavycast/26",
+      "heavycast/27",
+      "heavycast/28",
+      "heavycast/29",
+      "heavycast/30",
+      "heavycast/31",
+      "idle/3"
+     ],
+     "durationsMs": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+     ]
+    },
+    "summon": {
+     "frames": [
+      "heavycast/1",
+      "summon/1",
+      "summon/2",
+      "summon/3",
+      "summon/4",
+      "summon/5",
+      "fly/0",
+      "fly/1",
+      "fly/2",
+      "fly/3",
+      "summon/10",
+      "summon/11",
+      "summon/12",
+      "summon/13",
+      "summon/14",
+      "summon/15",
+      "summon/16",
+      "summon/17",
+      "summon/18",
+      "summon/19",
+      "summon/10",
+      "summon/11",
+      "summon/12",
+      "summon/13",
+      "summon/24",
+      "summon/25",
+      "summon/26",
+      "summon/27",
+      "summon/28",
+      "summon/29",
+      "summon/30",
+      "summon/31",
+      "summon/32",
+      "summon/33"
+     ],
+     "durationsMs": [
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70
+     ]
+    },
+    "stun": {
+     "frames": [
+      "stun/0",
+      "stun/1",
+      "stun/2",
+      "stun/3",
+      "stun/4",
+      "stun/5",
+      "stun/6",
+      "stun/7",
+      "stun/7",
+      "stun/9",
+      "stun/10",
+      "stun/11",
+      "stun/12",
+      "stun/13",
+      "stun/14",
+      "stun/7"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+     ]
+    },
+    "outstun": {
+     "frames": [
+      "outstun/0",
+      "outstun/1",
+      "outstun/2",
+      "outstun/3",
+      "outstun/3",
+      "outstun/5",
+      "outstun/6",
+      "outstun/7",
+      "outstun/8",
+      "outstun/9",
+      "outstun/10",
+      "outstun/11",
+      "outstun/12"
+     ],
+     "durationsMs": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+     ]
+    },
+    "hurt": {
+     "frames": [
+      "hurt/0",
+      "hurt/1",
+      "hurt/2",
+      "hurt/3",
+      "hurt/4",
+      "hurt/5",
+      "hurt/5",
+      "hurt/5"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+     ]
+    },
+    "defeat": {
+     "frames": [
+      "hurt/1",
+      "defeat/1",
+      "defeat/2",
+      "defeat/3",
+      "defeat/4",
+      "defeat/5",
+      "defeat/6",
+      "defeat/7",
+      "defeat/8",
+      "defeat/9",
+      "defeat/10",
+      "defeat/11",
+      "defeat/12",
+      "defeat/13",
+      "defeat/14",
+      "defeat/15",
+      "defeat/16",
+      "defeat/17",
+      "defeat/18",
+      "defeat/19",
+      "defeat/20",
+      "defeat/21",
+      "defeat/22",
+      "defeat/23",
+      "defeat/24",
+      "defeat/25",
+      "defeat/26",
+      "defeat/27",
+      "defeat/28",
+      "defeat/29",
+      "defeat/30",
+      "defeat/31",
+      "defeat/32",
+      "defeat/33",
+      "defeat/34",
+      "defeat/35",
+      "defeat/36",
+      "defeat/37",
+      "defeat/38",
+      "defeat/39",
+      "defeat/40",
+      "defeat/41",
+      "defeat/42"
+     ],
+     "durationsMs": [
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70
+     ]
+    }
+   }
+  },
+  "nightlord_fx": {
+   "atlas": "nightlord_fx",
+   "frameWidth": 83,
+   "frameHeight": 48,
+   "origin": {
+    "x": 38,
+    "y": 41
+   },
+   "artFacing": "right",
+   "animations": {
+    "attack1": {
+     "frames": [
+      "attack1/0",
+      "attack1/1",
+      "attack1/2",
+      "attack1/3",
+      "attack1/3",
+      "attack1/5",
+      "attack1/6",
+      "attack1/7",
+      "attack1/3",
+      "attack1/3",
+      "attack1/3",
+      "attack1/11",
+      "attack1/12",
+      "attack1/13",
+      "attack1/14",
+      "attack1/15",
+      "attack1/16",
+      "attack1/17",
+      "attack1/18",
+      "attack1/19",
+      "attack1/3",
+      "attack1/3",
+      "attack1/3",
+      "attack1/3",
+      "attack1/3"
+     ],
+     "durationsMs": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+     ]
+    }
+   }
+  },
+  "nightlord_hit": {
+   "atlas": "nightlord_hit",
+   "frameWidth": 24,
+   "frameHeight": 24,
+   "origin": {
+    "x": 12,
+    "y": 12
+   },
+   "artFacing": "right",
+   "animations": {
+    "hit": {
+     "frames": [
+      "hit/0",
+      "hit/1",
+      "hit/2",
+      "hit/3",
+      "hit/4",
+      "hit/5",
+      "hit/6",
+      "hit/7",
+      "hit/8",
+      "hit/9",
+      "hit/4",
+      "hit/11",
+      "hit/12",
+      "hit/13",
+      "hit/14",
+      "hit/15",
+      "hit/16",
+      "hit/17",
+      "hit/18",
+      "hit/4"
+     ],
+     "durationsMs": [
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+     ]
+    }
+   }
+  },
+  "tormented_souls": {
+   "atlas": "tormented_souls",
+   "frameWidth": 48,
+   "frameHeight": 32,
+   "origin": {
+    "x": 24,
+    "y": 16
+   },
+   "artFacing": "right",
+   "animations": {
+    "tocharge": {
+     "frames": [
+      "tocharge/0",
+      "tocharge/1"
+     ],
+     "durationsMs": [
+      60,
+      60
+     ]
+    },
+    "charging": {
+     "frames": [
+      "charging/0",
+      "charging/1",
+      "charging/2",
+      "charging/3",
+      "charging/4",
+      "charging/5",
+      "charging/6",
+      "charging/7",
+      "charging/8",
+      "charging/9",
+      "charging/10"
+     ],
+     "durationsMs": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+     ]
+    },
+    "tocast": {
+     "frames": [
+      "tocast/0",
+      "tocharge/0"
+     ],
+     "durationsMs": [
+      60,
+      60
+     ]
+    },
+    "cast": {
+     "frames": [
+      "cast/0"
+     ],
+     "durationsMs": [
+      60
+     ]
+    },
+    "fly": {
+     "frames": [
+      "fly/0",
+      "fly/1",
+      "fly/2",
+      "fly/3"
+     ],
+     "durationsMs": [
+      60,
+      60,
+      60,
+      60
+     ]
+    },
+    "dissipate": {
+     "frames": [
+      "dissipate/0",
+      "dissipate/1",
+      "dissipate/2",
+      "dissipate/3",
+      "dissipate/4"
+     ],
+     "durationsMs": [
+      50,
+      50,
+      50,
+      50,
+      50
+     ]
+    },
+    "hit": {
+     "frames": [
+      "hit/0",
+      "hit/1",
+      "hit/2",
+      "hit/3",
+      "hit/4"
+     ],
+     "durationsMs": [
+      50,
+      50,
+      50,
+      50,
+      50
+     ]
+    }
+   }
+  },
+  "bat": {
+   "atlas": "bat",
+   "frameWidth": 32,
+   "frameHeight": 24,
+   "origin": {
+    "x": 16,
+    "y": 12
+   },
+   "artFacing": "right",
+   "animations": {
+    "idle": {
+     "frames": [
+      "idle/0",
+      "idle/1",
+      "idle/2",
+      "idle/3",
+      "idle/4"
+     ],
+     "durationsMs": [
+      70,
+      70,
+      70,
+      70,
+      70
+     ]
+    },
+    "bite": {
+     "frames": [
+      "bite/0",
+      "bite/1",
+      "bite/2",
+      "bite/3",
+      "bite/4"
+     ],
+     "durationsMs": [
+      50,
+      50,
+      50,
+      50,
+      50
+     ]
+    },
+    "moveback": {
+     "frames": [
+      "moveback/0",
+      "moveback/1",
+      "moveback/2",
+      "moveback/3",
+      "moveback/4"
+     ],
+     "durationsMs": [
+      70,
+      70,
+      70,
+      70,
+      70
+     ]
+    },
+    "blood": {
+     "frames": [
+      "blood/0",
+      "blood/1",
+      "blood/2",
+      "blood/3",
+      "blood/4",
+      "blood/5"
+     ],
+     "durationsMs": [
+      70,
+      70,
+      70,
+      70,
+      70,
+      70
+     ]
+    }
+   }
+  },
+  "summon_circle": {
+   "atlas": "summon_circle",
+   "frameWidth": 64,
+   "frameHeight": 32,
+   "origin": {
+    "x": 32,
+    "y": 24
+   },
+   "artFacing": "right",
+   "animations": {
+    "circle": {
+     "frames": [
+      "circle/0",
+      "circle/1",
+      "circle/2",
+      "circle/3",
+      "circle/4",
+      "circle/5",
+      "circle/4",
+      "circle/7",
+      "circle/8",
+      "circle/9",
+      "circle/10",
+      "circle/11",
+      "circle/12",
+      "circle/13",
+      "circle/14",
+      "circle/15",
+      "circle/16",
+      "circle/17",
+      "circle/18",
+      "circle/19",
+      "circle/20",
+      "circle/21",
+      "circle/22",
+      "circle/23",
+      "circle/24",
+      "circle/25"
+     ],
+     "durationsMs": [
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+     ]
+    }
+   }
+  },
+  "dark_spikes": {
+   "atlas": "dark_spikes",
+   "frameWidth": 48,
+   "frameHeight": 56,
+   "origin": {
+    "x": 24,
+    "y": 56
+   },
+   "artFacing": "right",
+   "animations": {
+    "spikes": {
+     "frames": [
+      "spikes/0",
+      "spikes/1",
+      "spikes/2",
+      "spikes/3",
+      "spikes/4",
+      "spikes/4",
+      "spikes/6",
+      "spikes/7",
+      "spikes/8",
+      "spikes/9",
+      "spikes/10",
+      "spikes/11",
+      "spikes/12",
+      "spikes/13",
+      "spikes/14",
+      "spikes/15"
+     ],
+     "durationsMs": [
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+     ]
+    }
+   }
+  },
+  "dark_claws": {
+   "atlas": "dark_claws",
+   "frameWidth": 64,
+   "frameHeight": 48,
+   "origin": {
+    "x": 32,
+    "y": 48
+   },
+   "artFacing": "right",
+   "animations": {
+    "claws": {
+     "frames": [
+      "claws/0",
+      "claws/1",
+      "claws/2",
+      "claws/3",
+      "claws/4",
+      "claws/5",
+      "claws/6",
+      "claws/7",
+      "claws/8",
+      "claws/9",
+      "claws/10",
+      "claws/11",
+      "claws/12",
+      "claws/13",
+      "claws/14",
+      "claws/15"
+     ],
+     "durationsMs": [
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+     ]
+    }
+   }
+  },
+  "dark_eye": {
+   "atlas": "dark_eye",
+   "frameWidth": 48,
+   "frameHeight": 48,
+   "origin": {
+    "x": 24,
+    "y": 24
+   },
+   "artFacing": "right",
+   "animations": {
+    "eye": {
+     "frames": [
+      "eye/0",
+      "eye/1",
+      "eye/2",
+      "eye/3",
+      "eye/4",
+      "eye/5",
+      "eye/6",
+      "eye/7",
+      "eye/8",
+      "eye/9",
+      "eye/10",
+      "eye/11",
+      "eye/12",
+      "eye/13",
+      "eye/14",
+      "eye/15",
+      "eye/16",
+      "eye/17",
+      "eye/18",
+      "eye/19",
+      "eye/20",
+      "eye/21",
+      "eye/22",
+      "eye/23",
+      "eye/24",
+      "eye/25"
+     ],
+     "durationsMs": [
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+     ]
+    }
+   }
+  },
+  "thunder_strike": {
+   "atlas": "thunder_strike",
+   "frameWidth": 64,
+   "frameHeight": 64,
+   "origin": {
+    "x": 32,
+    "y": 64
+   },
+   "artFacing": "right",
+   "animations": {
+    "strike": {
+     "frames": [
+      "strike/0",
+      "strike/1",
+      "strike/2",
+      "strike/3",
+      "strike/4",
+      "strike/5",
+      "strike/6",
+      "strike/7",
+      "strike/8",
+      "strike/9",
+      "strike/10",
+      "strike/11",
+      "strike/12"
+     ],
+     "durationsMs": [
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40
+     ]
+    }
+   }
+  },
+  "thunder_splash": {
+   "atlas": "thunder_splash",
+   "frameWidth": 48,
+   "frameHeight": 48,
+   "origin": {
+    "x": 24,
+    "y": 48
+   },
+   "artFacing": "right",
+   "animations": {
+    "splash": {
+     "frames": [
+      "splash/0",
+      "splash/1",
+      "splash/2",
+      "splash/3",
+      "splash/4",
+      "splash/5",
+      "splash/6",
+      "splash/7",
+      "splash/8",
+      "splash/9",
+      "splash/10",
+      "splash/9",
+      "splash/12",
+      "splash/9"
+     ],
+     "durationsMs": [
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40
+     ]
+    }
+   }
+  },
+  "thunder_hit": {
+   "atlas": "thunder_hit",
+   "frameWidth": 32,
+   "frameHeight": 32,
+   "origin": {
+    "x": 16,
+    "y": 16
+   },
+   "artFacing": "right",
+   "animations": {
+    "hit": {
+     "frames": [
+      "hit/0",
+      "hit/1",
+      "hit/2",
+      "hit/3",
+      "hit/4",
+      "hit/5"
+     ],
+     "durationsMs": [
+      40,
+      40,
+      40,
+      40,
+      40,
+      40
+     ]
+    }
+   }
+  },
+  "missile": {
+   "atlas": "missile",
+   "frameWidth": 48,
+   "frameHeight": 48,
+   "origin": {
+    "x": 24,
+    "y": 24
+   },
+   "artFacing": "right",
+   "animations": {
+    "fly": {
+     "frames": [
+      "fly/0",
+      "fly/1",
+      "fly/2",
+      "fly/3",
+      "fly/4",
+      "fly/5",
+      "fly/6",
+      "fly/7",
+      "fly/8",
+      "fly/9",
+      "fly/10",
+      "fly/11",
+      "fly/12",
+      "fly/13",
+      "fly/14",
+      "fly/15"
+     ],
+     "durationsMs": [
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+     ]
+    }
+   }
+  },
+  "thrust": {
+   "atlas": "thrust",
+   "frameWidth": 64,
+   "frameHeight": 32,
+   "origin": {
+    "x": 56,
+    "y": 16
+   },
+   "artFacing": "right",
+   "animations": {
+    "flame": {
+     "frames": [
+      "flame/0",
+      "flame/1",
+      "flame/2",
+      "flame/3",
+      "flame/4",
+      "flame/5"
+     ],
+     "durationsMs": [
+      40,
+      40,
+      40,
+      40,
+      40,
+      40
+     ]
+    }
+   }
+  },
+  "smoke_burst": {
+   "atlas": "smoke_burst",
+   "frameWidth": 80,
+   "frameHeight": 64,
+   "origin": {
+    "x": 46,
+    "y": 49
+   },
+   "artFacing": "left",
+   "animations": {
+    "burst": {
+     "frames": [
+      "burst/0",
+      "burst/1",
+      "burst/2",
+      "burst/3",
+      "burst/4",
+      "burst/5",
+      "burst/6",
+      "burst/7",
+      "burst/8"
+     ],
+     "durationsMs": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+     ]
+    }
+   }
+  },
+  "smoke_gust": {
+   "atlas": "smoke_gust",
+   "frameWidth": 64,
+   "frameHeight": 64,
+   "origin": {
+    "x": 56,
+    "y": 46
+   },
+   "artFacing": "left",
+   "animations": {
+    "gust": {
+     "frames": [
+      "gust/0",
+      "gust/1",
+      "gust/2",
+      "gust/3",
+      "gust/4",
+      "gust/5",
+      "gust/6",
+      "gust/7"
+     ],
+     "durationsMs": [
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+     ]
+    }
+   }
+  },
+  "smoke_gust_small": {
+   "atlas": "smoke_gust_small",
+   "frameWidth": 64,
+   "frameHeight": 64,
+   "origin": {
+    "x": 56,
+    "y": 46
+   },
+   "artFacing": "left",
+   "animations": {
+    "gust": {
+     "frames": [
+      "gust/0",
+      "gust/1",
+      "gust/2",
+      "gust/3",
+      "gust/4",
+      "gust/5",
+      "gust/6"
+     ],
+     "durationsMs": [
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+     ]
+    }
+   }
+  },
+  "smoke_puff": {
+   "atlas": "smoke_puff",
+   "frameWidth": 64,
+   "frameHeight": 64,
+   "origin": {
+    "x": 34,
+    "y": 48
+   },
+   "artFacing": "right",
+   "animations": {
+    "puff": {
+     "frames": [
+      "puff/0",
+      "puff/1",
+      "puff/2",
+      "puff/3",
+      "puff/4",
+      "puff/5",
+      "puff/6",
+      "puff/7",
+      "puff/7"
+     ],
+     "durationsMs": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+     ]
+    }
+   }
+  },
+  "smoke_kick": {
+   "atlas": "smoke_kick",
+   "frameWidth": 32,
+   "frameHeight": 32,
+   "origin": {
+    "x": 24,
+    "y": 25
+   },
+   "artFacing": "left",
+   "animations": {
+    "kick": {
+     "frames": [
+      "kick/0",
+      "kick/1",
+      "kick/2",
+      "kick/3",
+      "kick/4",
+      "kick/5",
+      "kick/6",
+      "kick/6"
+     ],
+     "durationsMs": [
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+     ]
+    }
+   }
+  },
+  "training_dummy": {
+   "atlas": "training_dummy",
+   "frameWidth": 48,
+   "frameHeight": 48,
+   "origin": {
+    "x": 25,
+    "y": 48
+   },
+   "artFacing": "right",
+   "animations": {
+    "idle": {
+     "frames": [
+      "idle/0"
+     ],
+     "durationsMs": [
+      400
+     ]
+    },
+    "hurt": {
+     "frames": [
+      "hurt/0",
+      "hurt/1",
+      "hurt/2",
+      "hurt/3",
+      "idle/0"
+     ],
+     "durationsMs": [
+      70,
+      70,
+      70,
+      70,
+      70
+     ]
+    },
+    "idle_armored": {
+     "frames": [
+      "idle_armored/0"
+     ],
+     "durationsMs": [
+      400
+     ]
+    },
+    "hurt_armored": {
+     "frames": [
+      "hurt_armored/0",
+      "hurt_armored/1",
+      "hurt_armored/2",
+      "hurt_armored/3",
+      "idle_armored/0"
+     ],
+     "durationsMs": [
+      70,
+      70,
+      70,
+      70,
+      70
+     ]
+    }
+   }
+  },
+  "dummy_flash": {
+   "atlas": "dummy_flash",
+   "frameWidth": 64,
+   "frameHeight": 64,
+   "origin": {
+    "x": 32,
+    "y": 32
+   },
+   "artFacing": "right",
+   "animations": {
+    "flash": {
+     "frames": [
+      "flash/0",
+      "flash/1",
+      "flash/2",
+      "flash/3",
+      "flash/4"
+     ],
+     "durationsMs": [
+      40,
+      40,
+      40,
+      40,
+      40
+     ]
+    }
+   }
+  },
+  "dummy_shards": {
+   "atlas": "dummy_shards",
+   "frameWidth": 48,
+   "frameHeight": 48,
+   "origin": {
+    "x": 24,
+    "y": 24
+   },
+   "artFacing": "right",
+   "animations": {
+    "shards": {
+     "frames": [
+      "shards/0",
+      "shards/1",
+      "shards/2",
+      "shards/3",
+      "shards/4",
+      "shards/5"
+     ],
+     "durationsMs": [
+      45,
+      45,
+      45,
+      45,
+      45,
+      45
+     ]
+    }
+   }
+  },
+  "dummy_stars": {
+   "atlas": "dummy_stars",
+   "frameWidth": 24,
+   "frameHeight": 24,
+   "origin": {
+    "x": 12,
+    "y": 12
+   },
+   "artFacing": "right",
+   "animations": {
+    "loop": {
+     "frames": [
+      "loop/0",
+      "loop/1",
+      "loop/2"
+     ],
+     "durationsMs": [
+      90,
+      90,
+      90
+     ]
+    },
+    "fade": {
+     "frames": [
+      "fade/0",
+      "fade/1",
+      "fade/2",
+      "fade/3"
+     ],
+     "durationsMs": [
+      90,
+      90,
+      90,
+      90
+     ]
+    }
+   }
+  },
+  "witch": {
+   "atlas": "witch",
+   "frameWidth": 132,
+   "frameHeight": 72,
+   "origin": {
+    "x": 65,
+    "y": 52
+   },
+   "artFacing": "right",
+   "animations": {
+    "idle": {
+     "frames": [
+      "idle/0",
+      "idle/1",
+      "idle/2",
+      "idle/3",
+      "idle/4",
+      "idle/5",
+      "idle/6",
+      "idle/7",
+      "idle/8"
+     ],
+     "durationsMs": [
+      110,
+      110,
+      110,
+      110,
+      110,
+      110,
+      110,
+      110,
+      110
+     ]
+    },
+    "running": {
+     "frames": [
+      "running/0",
+      "running/1",
+      "running/2",
+      "running/3",
+      "running/4",
+      "running/5",
+      "running/6",
+      "running/7"
+     ],
+     "durationsMs": [
+      90,
+      90,
+      90,
+      90,
+      90,
+      90,
+      90,
+      90
+     ]
+    },
+    "sprint": {
+     "frames": [
+      "sprint/0",
+      "sprint/1",
+      "sprint/2",
+      "sprint/3",
+      "sprint/4"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80,
+      80
+     ]
+    },
+    "jump": {
+     "frames": [
+      "jump/0",
+      "jump/1",
+      "jump/2",
+      "jump/3",
+      "jump/4",
+      "jump/5",
+      "jump/6",
+      "jump/7",
+      "jump/8",
+      "jump/9",
+      "jump/10",
+      "jump/11",
+      "jump/12",
+      "jump/13"
+     ],
+     "durationsMs": [
+      90,
+      90,
+      90,
+      90,
+      90,
+      90,
+      90,
+      90,
+      90,
+      90,
+      90,
+      90,
+      90,
+      90
+     ]
+    },
+    "jump_up": {
+     "frames": [
+      "jump/0",
+      "jump/1",
+      "jump/2"
+     ],
+     "durationsMs": [
+      90,
+      90,
+      90
+     ]
+    },
+    "jump_down": {
+     "frames": [
+      "jump/3",
+      "jump/4",
+      "jump/5",
+      "jump/6",
+      "jump/7"
+     ],
+     "durationsMs": [
+      90,
+      90,
+      90,
+      90,
+      90
+     ]
+    },
+    "land": {
+     "frames": [
+      "jump/8",
+      "jump/9",
+      "jump/10",
+      "jump/11",
+      "jump/12",
+      "jump/13"
+     ],
+     "durationsMs": [
+      70,
+      70,
+      70,
+      70,
+      70,
+      70
+     ]
+    },
+    "doublejump": {
+     "frames": [
+      "doublejump/0",
+      "doublejump/1",
+      "doublejump/2",
+      "doublejump/3",
+      "doublejump/4",
+      "doublejump/5",
+      "doublejump/6",
+      "doublejump/7",
+      "doublejump/8",
+      "doublejump/9",
+      "doublejump/10"
+     ],
+     "durationsMs": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+     ]
+    },
+    "hurt": {
+     "frames": [
+      "hurt/0",
+      "hurt/1",
+      "hurt/2",
+      "hurt/3",
+      "hurt/4"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80,
+      80
+     ]
+    },
+    "defeat": {
+     "frames": [
+      "defeat/0",
+      "defeat/1",
+      "defeat/2",
+      "defeat/3",
+      "defeat/4",
+      "defeat/5",
+      "defeat/6",
+      "defeat/7",
+      "defeat/8",
+      "defeat/9",
+      "defeat/10",
+      "defeat/11",
+      "defeat/12",
+      "defeat/13",
+      "defeat/14",
+      "defeat/15",
+      "defeat/16",
+      "defeat/17",
+      "defeat/18",
+      "defeat/19",
+      "defeat/20",
+      "defeat/21",
+      "defeat/22",
+      "defeat/23",
+      "defeat/24",
+      "defeat/25",
+      "defeat/26",
+      "defeat/27",
+      "defeat/28",
+      "defeat/29"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+     ]
+    },
+    "spin": {
+     "frames": [
+      "spin/0",
+      "spin/1",
+      "spin/2",
+      "spin/3",
+      "spin/4",
+      "spin/5",
+      "spin/6",
+      "spin/7",
+      "spin/8",
+      "spin/9",
+      "spin/10",
+      "spin/11",
+      "spin/12",
+      "spin/13",
+      "spin/14",
+      "spin/15",
+      "spin/16",
+      "spin/17"
+     ],
+     "durationsMs": [
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45
+     ]
+    },
+    "dash": {
+     "frames": [
+      "dash/0",
+      "dash/1",
+      "dash/2",
+      "dash/3",
+      "dash/4",
+      "dash/5",
+      "dash/6",
+      "dash/7",
+      "dash/8",
+      "dash/9",
+      "dash/10",
+      "dash/11",
+      "dash/12",
+      "dash/13",
+      "dash/14",
+      "dash/15",
+      "dash/16",
+      "dash/17",
+      "dash/18"
+     ],
+     "durationsMs": [
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+     ]
+    },
+    "brake": {
+     "frames": [
+      "brake/0",
+      "brake/1",
+      "brake/2",
+      "brake/3"
+     ],
+     "durationsMs": [
+      70,
+      70,
+      70,
+      70
+     ]
+    },
+    "rest": {
+     "frames": [
+      "spin/0",
+      "rest/1",
+      "rest/2",
+      "rest/3",
+      "rest/4",
+      "rest/5",
+      "rest/6",
+      "rest/7",
+      "rest/8",
+      "rest/9",
+      "rest/10",
+      "rest/11",
+      "rest/12",
+      "rest/13",
+      "rest/13",
+      "rest/15",
+      "rest/16",
+      "rest/11",
+      "rest/12",
+      "rest/13",
+      "rest/20",
+      "rest/21",
+      "rest/22",
+      "rest/23",
+      "rest/24",
+      "rest/25",
+      "rest/26"
+     ],
+     "durationsMs": [
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160
+     ]
+    },
+    "combo": {
+     "frames": [
+      "combo/0",
+      "combo/1",
+      "combo/2",
+      "combo/3",
+      "combo/4",
+      "combo/5",
+      "combo/6",
+      "combo/7",
+      "combo/8",
+      "combo/9",
+      "combo/10",
+      "combo/11",
+      "combo/12",
+      "combo/13",
+      "combo/14",
+      "combo/15",
+      "combo/16",
+      "combo/17",
+      "combo/18",
+      "combo/19",
+      "combo/20",
+      "combo/21",
+      "combo/22",
+      "combo/23",
+      "combo/24",
+      "combo/25",
+      "combo/26",
+      "combo/27"
+     ],
+     "durationsMs": [
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70
+     ]
+    },
+    "comet": {
+     "frames": [
+      "spin/0",
+      "comet/1",
+      "comet/2",
+      "comet/3",
+      "comet/4",
+      "comet/5",
+      "comet/6",
+      "comet/7",
+      "comet/8",
+      "comet/9",
+      "comet/10",
+      "comet/11",
+      "comet/12",
+      "comet/13",
+      "comet/14",
+      "comet/15",
+      "comet/16",
+      "comet/17",
+      "comet/18",
+      "comet/19",
+      "comet/20",
+      "comet/21",
+      "comet/22",
+      "comet/23",
+      "comet/24",
+      "comet/25",
+      "comet/26",
+      "comet/27"
+     ],
+     "durationsMs": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+     ]
+    },
+    "fastcast": {
+     "frames": [
+      "fastcast/0",
+      "fastcast/1",
+      "fastcast/2",
+      "fastcast/3",
+      "fastcast/4",
+      "fastcast/5",
+      "fastcast/6",
+      "fastcast/7",
+      "fastcast/8",
+      "fastcast/9",
+      "fastcast/10",
+      "fastcast/11",
+      "fastcast/12",
+      "fastcast/13"
+     ],
+     "durationsMs": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+     ]
+    },
+    "lightcast": {
+     "frames": [
+      "spin/0",
+      "lightcast/1",
+      "lightcast/2",
+      "lightcast/3",
+      "lightcast/4",
+      "lightcast/5",
+      "lightcast/6",
+      "lightcast/7",
+      "lightcast/8",
+      "lightcast/9",
+      "lightcast/10",
+      "lightcast/11",
+      "lightcast/12",
+      "lightcast/13",
+      "lightcast/14",
+      "lightcast/15",
+      "lightcast/16",
+      "lightcast/17",
+      "lightcast/18",
+      "lightcast/19",
+      "lightcast/20",
+      "lightcast/21"
+     ],
+     "durationsMs": [
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70
+     ]
+    },
+    "heavycast": {
+     "frames": [
+      "heavycast/0",
+      "heavycast/1",
+      "heavycast/2",
+      "heavycast/3",
+      "heavycast/4",
+      "heavycast/5",
+      "heavycast/6",
+      "heavycast/7",
+      "heavycast/8",
+      "heavycast/9",
+      "heavycast/10",
+      "heavycast/11",
+      "heavycast/12",
+      "heavycast/13",
+      "heavycast/14",
+      "heavycast/15",
+      "heavycast/16",
+      "heavycast/17",
+      "heavycast/18",
+      "heavycast/19",
+      "heavycast/20",
+      "heavycast/21",
+      "heavycast/22",
+      "heavycast/23",
+      "heavycast/24",
+      "heavycast/25",
+      "heavycast/26",
+      "heavycast/27",
+      "heavycast/28",
+      "heavycast/29",
+      "heavycast/30"
+     ],
+     "durationsMs": [
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70
+     ]
+    },
+    "upcast": {
+     "frames": [
+      "upcast/0",
+      "upcast/1",
+      "upcast/2",
+      "upcast/3",
+      "upcast/4",
+      "upcast/5",
+      "upcast/6",
+      "upcast/7",
+      "upcast/8",
+      "upcast/9",
+      "upcast/10",
+      "upcast/11",
+      "upcast/12",
+      "upcast/13",
+      "fastcast/13"
+     ],
+     "durationsMs": [
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70
+     ]
+    },
+    "icecast": {
+     "frames": [
+      "icecast/0",
+      "lightcast/1",
+      "icecast/2",
+      "icecast/3",
+      "icecast/4",
+      "icecast/5",
+      "icecast/6",
+      "icecast/7",
+      "icecast/8",
+      "icecast/9",
+      "icecast/10",
+      "icecast/11",
+      "icecast/12",
+      "icecast/13",
+      "icecast/14",
+      "icecast/15",
+      "icecast/16",
+      "icecast/17",
+      "icecast/18",
+      "icecast/19",
+      "icecast/20",
+      "icecast/21",
+      "icecast/22",
+      "icecast/23"
+     ],
+     "durationsMs": [
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70
+     ]
+    },
+    "boltcast": {
+     "frames": [
+      "boltcast/0",
+      "boltcast/1",
+      "boltcast/2",
+      "boltcast/3",
+      "boltcast/4",
+      "boltcast/5",
+      "boltcast/6",
+      "boltcast/7",
+      "boltcast/8",
+      "boltcast/9",
+      "boltcast/10",
+      "boltcast/11",
+      "boltcast/12",
+      "boltcast/13",
+      "boltcast/14",
+      "boltcast/15",
+      "boltcast/16",
+      "boltcast/17",
+      "boltcast/18",
+      "boltcast/19",
+      "boltcast/20",
+      "boltcast/21",
+      "boltcast/22",
+      "boltcast/23",
+      "boltcast/24",
+      "boltcast/25",
+      "boltcast/26",
+      "boltcast/27",
+      "boltcast/28",
+      "boltcast/29"
+     ],
+     "durationsMs": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+     ]
+    },
+    "twinscast": {
+     "frames": [
+      "twinscast/0",
+      "twinscast/1",
+      "twinscast/2",
+      "twinscast/3",
+      "twinscast/4",
+      "twinscast/5",
+      "twinscast/6",
+      "twinscast/7",
+      "twinscast/8",
+      "twinscast/9",
+      "twinscast/10",
+      "twinscast/11",
+      "twinscast/12",
+      "twinscast/13",
+      "twinscast/14",
+      "twinscast/15",
+      "twinscast/16",
+      "twinscast/17",
+      "twinscast/18",
+      "twinscast/19",
+      "twinscast/20",
+      "twinscast/21",
+      "twinscast/22"
+     ],
+     "durationsMs": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+     ]
+    },
+    "shield": {
+     "frames": [
+      "spin/0",
+      "shield/1",
+      "shield/2",
+      "shield/3",
+      "shield/4",
+      "shield/5",
+      "shield/6",
+      "shield/7",
+      "shield/8",
+      "shield/9",
+      "shield/10",
+      "shield/11",
+      "shield/12",
+      "shield/13",
+      "shield/14",
+      "shield/15",
+      "shield/16",
+      "shield/17",
+      "shield/18",
+      "shield/19",
+      "shield/20",
+      "shield/21",
+      "shield/22",
+      "shield/23",
+      "shield/24"
+     ],
+     "durationsMs": [
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70
+     ]
+    },
+    "battleidle": {
+     "frames": [
+      "battleidle/0",
+      "battleidle/1",
+      "battleidle/2",
+      "battleidle/3",
+      "battleidle/4",
+      "battleidle/5",
+      "battleidle/6",
+      "battleidle/7",
+      "battleidle/8"
+     ],
+     "durationsMs": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+     ]
+    },
+    "wandstrike": {
+     "frames": [
+      "wandstrike/0",
+      "wandstrike/1",
+      "wandstrike/2",
+      "wandstrike/3",
+      "wandstrike/4",
+      "wandstrike/5",
+      "wandstrike/6",
+      "wandstrike/7",
+      "wandstrike/8",
+      "wandstrike/9",
+      "wandstrike/10"
+     ],
+     "durationsMs": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+     ]
+    },
+    "wandlight": {
+     "frames": [
+      "wandlight/0",
+      "wandlight/1",
+      "wandlight/2",
+      "wandlight/3",
+      "wandlight/4",
+      "wandlight/5",
+      "wandlight/6",
+      "wandlight/7",
+      "wandlight/8",
+      "wandlight/9",
+      "wandlight/10",
+      "wandlight/11",
+      "wandlight/12",
+      "wandlight/13",
+      "wandlight/14",
+      "wandlight/15",
+      "wandlight/16",
+      "wandlight/17",
+      "wandlight/18",
+      "wandlight/19",
+      "wandlight/20",
+      "wandlight/21"
+     ],
+     "durationsMs": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+     ]
+    },
+    "wandheavy": {
+     "frames": [
+      "wandheavy/0",
+      "wandheavy/1",
+      "wandheavy/2",
+      "wandheavy/3",
+      "wandheavy/4",
+      "wandheavy/5",
+      "wandheavy/6",
+      "wandheavy/7",
+      "wandheavy/8",
+      "wandheavy/9",
+      "wandheavy/10",
+      "wandheavy/11",
+      "wandheavy/12",
+      "wandheavy/13",
+      "wandheavy/14",
+      "wandheavy/15",
+      "wandheavy/16",
+      "wandheavy/17",
+      "wandheavy/18",
+      "wandheavy/19",
+      "wandheavy/20",
+      "wandheavy/21",
+      "wandheavy/22",
+      "wandheavy/23",
+      "wandheavy/24",
+      "wandheavy/25",
+      "wandstrike/9",
+      "wandstrike/10"
+     ],
+     "durationsMs": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+     ]
+    },
+    "elemental": {
+     "frames": [
+      "elemental/0",
+      "elemental/1",
+      "elemental/2",
+      "elemental/3",
+      "elemental/4",
+      "elemental/5",
+      "elemental/6",
+      "elemental/7",
+      "elemental/8",
+      "elemental/9",
+      "elemental/10",
+      "elemental/11",
+      "elemental/12",
+      "elemental/13",
+      "elemental/14",
+      "elemental/15",
+      "elemental/16",
+      "elemental/17",
+      "elemental/18",
+      "elemental/19",
+      "elemental/20",
+      "elemental/21",
+      "elemental/22",
+      "elemental/23",
+      "elemental/24",
+      "elemental/25",
+      "elemental/26",
+      "elemental/27",
+      "elemental/28",
+      "elemental/29",
+      "elemental/30",
+      "elemental/31",
+      "elemental/32",
+      "elemental/33",
+      "elemental/34",
+      "elemental/35"
+     ],
+     "durationsMs": [
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70
+     ]
+    },
+    "flamer": {
+     "frames": [
+      "flamer/0",
+      "flamer/1",
+      "flamer/2",
+      "flamer/3",
+      "flamer/4",
+      "flamer/5",
+      "flamer/6",
+      "flamer/7",
+      "flamer/8",
+      "flamer/9",
+      "flamer/10",
+      "flamer/11",
+      "flamer/12",
+      "flamer/13"
+     ],
+     "durationsMs": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+     ]
+    },
+    "burst": {
+     "frames": [
+      "flamer/0",
+      "burst/1",
+      "burst/2",
+      "burst/3",
+      "burst/4",
+      "burst/5",
+      "burst/6",
+      "burst/7",
+      "burst/8",
+      "burst/9",
+      "burst/10",
+      "burst/11",
+      "burst/12",
+      "burst/13",
+      "burst/14",
+      "burst/15"
+     ],
+     "durationsMs": [
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55
+     ]
+    },
+    "seq1": {
+     "frames": [
+      "seq1/0",
+      "seq1/1",
+      "seq1/2",
+      "seq1/3",
+      "seq1/4",
+      "seq1/5",
+      "seq1/6",
+      "seq1/7",
+      "seq1/8",
+      "seq1/9",
+      "seq1/10",
+      "seq1/11",
+      "seq1/12",
+      "seq1/13",
+      "seq1/14",
+      "seq1/15",
+      "seq1/16"
+     ],
+     "durationsMs": [
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+     ]
+    },
+    "seq2": {
+     "frames": [
+      "seq2/0",
+      "seq2/1",
+      "seq2/2",
+      "seq2/3",
+      "seq2/4",
+      "seq2/5",
+      "seq1/8",
+      "seq1/10",
+      "seq1/11",
+      "seq1/12",
+      "seq1/13",
+      "seq1/14",
+      "seq1/15",
+      "seq1/16"
+     ],
+     "durationsMs": [
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+     ]
+    }
+   }
+  },
+  "witch_fireball": {
+   "atlas": "witch_fireball",
+   "frameWidth": 64,
+   "frameHeight": 64,
+   "origin": {
+    "x": 36,
+    "y": 31
+   },
+   "artFacing": "right",
+   "animations": {
+    "launch": {
+     "frames": [
+      "launch/0",
+      "launch/1"
+     ],
+     "durationsMs": [
+      60,
+      60
+     ]
+    },
+    "fly": {
+     "frames": [
+      "fly/0",
+      "fly/1",
+      "fly/2",
+      "fly/3"
+     ],
+     "durationsMs": [
+      60,
+      60,
+      60,
+      60
+     ]
+    },
+    "burst": {
+     "frames": [
+      "burst/0",
+      "burst/1",
+      "burst/2",
+      "burst/3",
+      "burst/4",
+      "burst/5",
+      "burst/6"
+     ],
+     "durationsMs": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+     ]
+    }
+   }
+  },
+  "witch_ember": {
+   "atlas": "witch_ember",
+   "frameWidth": 32,
+   "frameHeight": 32,
+   "origin": {
+    "x": 18,
+    "y": 16
+   },
+   "artFacing": "right",
+   "animations": {
+    "launch": {
+     "frames": [
+      "launch/0",
+      "launch/1"
+     ],
+     "durationsMs": [
+      50,
+      50
+     ]
+    },
+    "fly": {
+     "frames": [
+      "fly/0",
+      "fly/1",
+      "fly/2",
+      "fly/3"
+     ],
+     "durationsMs": [
+      50,
+      50,
+      50,
+      50
+     ]
+    },
+    "burst": {
+     "frames": [
+      "burst/0",
+      "burst/1",
+      "burst/2",
+      "burst/3",
+      "burst/4",
+      "burst/5",
+      "burst/6"
+     ],
+     "durationsMs": [
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+     ]
+    }
+   }
+  },
+  "witch_infierno": {
+   "atlas": "witch_infierno",
+   "frameWidth": 64,
+   "frameHeight": 64,
+   "origin": {
+    "x": 32,
+    "y": 50
+   },
+   "artFacing": "right",
+   "animations": {
+    "storm": {
+     "frames": [
+      "storm/0",
+      "storm/1",
+      "storm/2",
+      "storm/3",
+      "storm/4",
+      "storm/5",
+      "storm/6",
+      "storm/7",
+      "storm/8",
+      "storm/9",
+      "storm/10",
+      "storm/11",
+      "storm/12",
+      "storm/13",
+      "storm/14",
+      "storm/15",
+      "storm/16",
+      "storm/17",
+      "storm/18"
+     ],
+     "durationsMs": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+     ]
+    }
+   }
+  },
+  "witch_icepillar": {
+   "atlas": "witch_icepillar",
+   "frameWidth": 52,
+   "frameHeight": 53,
+   "origin": {
+    "x": 29,
+    "y": 48
+   },
+   "artFacing": "right",
+   "animations": {
+    "pillar": {
+     "frames": [
+      "pillar/0",
+      "pillar/1",
+      "pillar/2",
+      "pillar/3",
+      "pillar/4",
+      "pillar/5",
+      "pillar/6",
+      "pillar/7",
+      "pillar/8",
+      "pillar/9",
+      "pillar/10",
+      "pillar/10",
+      "pillar/10",
+      "pillar/13",
+      "pillar/14",
+      "pillar/15",
+      "pillar/16",
+      "pillar/17",
+      "pillar/18",
+      "pillar/19",
+      "pillar/20",
+      "pillar/21",
+      "pillar/22",
+      "pillar/23",
+      "pillar/24",
+      "pillar/25",
+      "pillar/26",
+      "pillar/27",
+      "pillar/28",
+      "pillar/29",
+      "pillar/30",
+      "pillar/31",
+      "pillar/32",
+      "pillar/33",
+      "pillar/34",
+      "pillar/35"
+     ],
+     "durationsMs": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+     ]
+    }
+   }
+  },
+  "witch_ice": {
+   "atlas": "witch_ice",
+   "frameWidth": 52,
+   "frameHeight": 53,
+   "origin": {
+    "x": 29,
+    "y": 48
+   },
+   "artFacing": "right",
+   "animations": {
+    "rise": {
+     "frames": [
+      "rise/0",
+      "rise/1",
+      "rise/2",
+      "rise/3",
+      "rise/4",
+      "rise/5",
+      "rise/6",
+      "rise/7",
+      "rise/8",
+      "rise/9",
+      "rise/10",
+      "rise/10"
+     ],
+     "durationsMs": [
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40
+     ]
+    },
+    "stand": {
+     "frames": [
+      "rise/10"
+     ],
+     "durationsMs": [
+      40
+     ]
+    },
+    "crack1": {
+     "frames": [
+      "crack1/0",
+      "crack1/1",
+      "crack1/2"
+     ],
+     "durationsMs": [
+      50,
+      50,
+      50
+     ]
+    },
+    "crack2": {
+     "frames": [
+      "crack2/0",
+      "crack2/1",
+      "crack2/2"
+     ],
+     "durationsMs": [
+      50,
+      50,
+      50
+     ]
+    },
+    "break": {
+     "frames": [
+      "break/0",
+      "break/1",
+      "break/2",
+      "break/3",
+      "break/4",
+      "break/5",
+      "break/6",
+      "break/7",
+      "break/8",
+      "break/9",
+      "break/10",
+      "break/11",
+      "break/12",
+      "break/13",
+      "break/14",
+      "break/15",
+      "break/16"
+     ],
+     "durationsMs": [
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45
+     ]
+    }
+   }
+  },
+  "witch_strike": {
+   "atlas": "witch_strike",
+   "frameWidth": 75,
+   "frameHeight": 64,
+   "origin": {
+    "x": 38,
+    "y": 57
+   },
+   "artFacing": "right",
+   "animations": {
+    "strike": {
+     "frames": [
+      "strike/0",
+      "strike/1",
+      "strike/2",
+      "strike/1",
+      "strike/4",
+      "strike/1",
+      "strike/6",
+      "strike/7",
+      "strike/8",
+      "strike/9",
+      "strike/10",
+      "strike/11",
+      "strike/12",
+      "strike/13",
+      "strike/14",
+      "strike/15",
+      "strike/16",
+      "strike/1",
+      "strike/18",
+      "strike/1",
+      "strike/20",
+      "strike/1",
+      "strike/22",
+      "strike/1",
+      "strike/24",
+      "strike/1"
+     ],
+     "durationsMs": [
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55,
+      55
+     ]
+    }
+   }
+  },
+  "witch_volcano": {
+   "atlas": "witch_volcano",
+   "frameWidth": 96,
+   "frameHeight": 60,
+   "origin": {
+    "x": 45,
+    "y": 53
+   },
+   "artFacing": "right",
+   "animations": {
+    "erupt": {
+     "frames": [
+      "erupt/0",
+      "erupt/1",
+      "erupt/2",
+      "erupt/3",
+      "erupt/4",
+      "erupt/5",
+      "erupt/6",
+      "erupt/7",
+      "erupt/8",
+      "erupt/9",
+      "erupt/10",
+      "erupt/11",
+      "erupt/12",
+      "erupt/13",
+      "erupt/14",
+      "erupt/15",
+      "erupt/16",
+      "erupt/17",
+      "erupt/18",
+      "erupt/19",
+      "erupt/20",
+      "erupt/21"
+     ],
+     "durationsMs": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+     ]
+    }
+   }
+  },
+  "witch_blackhole": {
+   "atlas": "witch_blackhole",
+   "frameWidth": 74,
+   "frameHeight": 64,
+   "origin": {
+    "x": 37,
+    "y": 32
+   },
+   "artFacing": "right",
+   "animations": {
+    "hole": {
+     "frames": [
+      "hole/0",
+      "hole/1",
+      "hole/2",
+      "hole/3",
+      "hole/4",
+      "hole/5",
+      "hole/6",
+      "hole/7",
+      "hole/8",
+      "hole/9",
+      "hole/10",
+      "hole/11",
+      "hole/12",
+      "hole/13",
+      "hole/14",
+      "hole/15",
+      "hole/16",
+      "hole/17",
+      "hole/18",
+      "hole/19",
+      "hole/20",
+      "hole/21",
+      "hole/22",
+      "hole/23",
+      "hole/23",
+      "hole/23"
+     ],
+     "durationsMs": [
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70
+     ]
+    }
+   }
+  },
+  "witch_burst": {
+   "atlas": "witch_burst",
+   "frameWidth": 44,
+   "frameHeight": 36,
+   "origin": {
+    "x": 22,
+    "y": 19
+   },
+   "artFacing": "right",
+   "animations": {
+    "boom": {
+     "frames": [
+      "boom/0",
+      "boom/1",
+      "boom/2",
+      "boom/3",
+      "boom/4",
+      "boom/5",
+      "boom/6",
+      "boom/7",
+      "boom/8",
+      "boom/9",
+      "boom/10",
+      "boom/11"
+     ],
+     "durationsMs": [
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+     ]
+    }
+   }
+  },
+  "witch_bolt": {
+   "atlas": "witch_bolt",
+   "frameWidth": 84,
+   "frameHeight": 40,
+   "origin": {
+    "x": 23,
+    "y": 34
+   },
+   "artFacing": "right",
+   "animations": {
+    "bolt": {
+     "frames": [
+      "bolt/0",
+      "bolt/1",
+      "bolt/2",
+      "bolt/3",
+      "bolt/4",
+      "bolt/5",
+      "bolt/2",
+      "bolt/3",
+      "bolt/4",
+      "bolt/5",
+      "bolt/10",
+      "bolt/11",
+      "bolt/12",
+      "bolt/13",
+      "bolt/14",
+      "bolt/15",
+      "bolt/14",
+      "bolt/14",
+      "bolt/14"
+     ],
+     "durationsMs": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+     ]
+    }
+   }
+  },
+  "witch_lance": {
+   "atlas": "witch_lance",
+   "frameWidth": 84,
+   "frameHeight": 40,
+   "origin": {
+    "x": 19,
+    "y": 21
+   },
+   "artFacing": "right",
+   "animations": {
+    "volt": {
+     "frames": [
+      "volt/0",
+      "volt/1",
+      "volt/2",
+      "volt/3",
+      "volt/4",
+      "volt/5",
+      "volt/2",
+      "volt/3"
+     ],
+     "durationsMs": [
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+     ]
+    }
+   }
+  },
+  "witch_lance_tip": {
+   "atlas": "witch_lance_tip",
+   "frameWidth": 84,
+   "frameHeight": 40,
+   "origin": {
+    "x": 53,
+    "y": 21
+   },
+   "artFacing": "right",
+   "animations": {
+    "tip": {
+     "frames": [
+      "tip/0",
+      "tip/1",
+      "tip/2",
+      "tip/3",
+      "tip/4",
+      "tip/5",
+      "tip/2",
+      "tip/3"
+     ],
+     "durationsMs": [
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+     ]
+    }
+   }
+  },
+  "witch_lance_ring": {
+   "atlas": "witch_lance_ring",
+   "frameWidth": 84,
+   "frameHeight": 40,
+   "origin": {
+    "x": 18,
+    "y": 21
+   },
+   "artFacing": "right",
+   "animations": {
+    "ring": {
+     "frames": [
+      "ring/0",
+      "ring/1",
+      "ring/2",
+      "ring/3",
+      "ring/0",
+      "ring/1",
+      "ring/2",
+      "ring/3"
+     ],
+     "durationsMs": [
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+     ]
+    }
+   }
+  },
+  "witch_breath": {
+   "atlas": "witch_breath",
+   "frameWidth": 95,
+   "frameHeight": 35,
+   "origin": {
+    "x": 0,
+    "y": 18
+   },
+   "artFacing": "right",
+   "animations": {
+    "breath": {
+     "frames": [
+      "breath/0",
+      "breath/1",
+      "breath/2",
+      "breath/3",
+      "breath/4",
+      "breath/5",
+      "breath/6",
+      "breath/7"
+     ],
+     "durationsMs": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+     ]
+    },
+    "loop": {
+     "frames": [
+      "breath/1",
+      "breath/2",
+      "breath/3"
+     ],
+     "durationsMs": [
+      60,
+      60,
+      60
+     ]
+    }
+   }
+  },
+  "witch_flame": {
+   "atlas": "witch_flame",
+   "frameWidth": 128,
+   "frameHeight": 64,
+   "origin": {
+    "x": 75,
+    "y": 32
+   },
+   "artFacing": "right",
+   "animations": {
+    "flame": {
+     "frames": [
+      "flame/0",
+      "flame/1",
+      "flame/2",
+      "flame/3",
+      "flame/4",
+      "flame/5",
+      "flame/6",
+      "flame/7",
+      "flame/8",
+      "flame/9",
+      "flame/10",
+      "flame/11",
+      "flame/12",
+      "flame/0"
+     ],
+     "durationsMs": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+     ]
+    }
+   }
+  },
+  "witch_breath_hit": {
+   "atlas": "witch_breath_hit",
+   "frameWidth": 22,
+   "frameHeight": 47,
+   "origin": {
+    "x": 11,
+    "y": 23
+   },
+   "artFacing": "right",
+   "animations": {
+    "hit": {
+     "frames": [
+      "hit/0",
+      "hit/1",
+      "hit/2",
+      "hit/3",
+      "hit/4",
+      "hit/5"
+     ],
+     "durationsMs": [
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+     ]
+    }
+   }
+  },
+  "witch_circle": {
+   "atlas": "witch_circle",
+   "frameWidth": 24,
+   "frameHeight": 12,
+   "origin": {
+    "x": 12,
+    "y": 7
+   },
+   "artFacing": "right",
+   "animations": {
+    "circle": {
+     "frames": [
+      "circle/0",
+      "circle/1",
+      "circle/2",
+      "circle/3"
+     ],
+     "durationsMs": [
+      80,
+      80,
+      80,
+      80
+     ]
+    }
+   }
+  },
+  "witch_impulse": {
+   "atlas": "witch_impulse",
+   "frameWidth": 34,
+   "frameHeight": 34,
+   "origin": {
+    "x": 17,
+    "y": 17
+   },
+   "artFacing": "right",
+   "animations": {
+    "ring": {
+     "frames": [
+      "ring/0",
+      "ring/1",
+      "ring/2",
+      "ring/3",
+      "ring/4",
+      "ring/5"
+     ],
+     "durationsMs": [
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+     ]
+    }
+   }
+  },
+  "witch_dashfire": {
+   "atlas": "witch_dashfire",
+   "frameWidth": 32,
+   "frameHeight": 32,
+   "origin": {
+    "x": 16,
+    "y": 27
+   },
+   "artFacing": "right",
+   "animations": {
+    "burn": {
+     "frames": [
+      "burn/0",
+      "burn/1",
+      "burn/2",
+      "burn/3",
+      "burn/4",
+      "burn/5",
+      "burn/6",
+      "burn/7",
+      "burn/8",
+      "burn/9",
+      "burn/10",
+      "burn/11",
+      "burn/12"
+     ],
+     "durationsMs": [
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+     ]
+    }
+   }
+  },
+  "witch_shock": {
+   "atlas": "witch_shock",
+   "frameWidth": 16,
+   "frameHeight": 32,
+   "origin": {
+    "x": 8,
+    "y": 17
+   },
+   "artFacing": "right",
+   "animations": {
+    "arc": {
+     "frames": [
+      "arc/0",
+      "arc/1",
+      "arc/2",
+      "arc/3",
+      "arc/4"
+     ],
+     "durationsMs": [
+      45,
+      45,
+      45,
+      45,
+      45
+     ]
+    }
+   }
+  },
+  "witch_firehit": {
+   "atlas": "witch_firehit",
+   "frameWidth": 84,
+   "frameHeight": 64,
+   "origin": {
+    "x": 55,
+    "y": 34
+   },
+   "artFacing": "right",
+   "animations": {
+    "hit": {
+     "frames": [
+      "hit/0",
+      "hit/1",
+      "hit/2",
+      "hit/3"
+     ],
+     "durationsMs": [
+      45,
+      45,
+      45,
+      45
+     ]
+    }
+   }
+  },
+  "witch_spark": {
+   "atlas": "witch_spark",
+   "frameWidth": 41,
+   "frameHeight": 32,
+   "origin": {
+    "x": 21,
+    "y": 16
+   },
+   "artFacing": "right",
+   "animations": {
+    "flat": {
+     "frames": [
+      "flat/0",
+      "flat/1",
+      "flat/2",
+      "flat/1",
+      "flat/4",
+      "flat/1",
+      "flat/6"
+     ],
+     "durationsMs": [
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40
+     ]
+    },
+    "slant": {
+     "frames": [
+      "slant/0",
+      "flat/1",
+      "slant/2",
+      "flat/1",
+      "slant/4",
+      "flat/1",
+      "slant/6",
+      "flat/1"
+     ],
+     "durationsMs": [
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40
+     ]
+    }
+   }
+  },
+  "witch_frost": {
+   "atlas": "witch_frost",
+   "frameWidth": 52,
+   "frameHeight": 53,
+   "origin": {
+    "x": 26,
+    "y": 52
+   },
+   "artFacing": "right",
+   "animations": {
+    "shatter": {
+     "frames": [
+      "shatter/0",
+      "shatter/1",
+      "shatter/2",
+      "shatter/3",
+      "shatter/4",
+      "shatter/5",
+      "shatter/6",
+      "shatter/7",
+      "shatter/8",
+      "shatter/9",
+      "shatter/10",
+      "shatter/11",
+      "shatter/12",
+      "shatter/13",
+      "shatter/14",
+      "shatter/15",
+      "shatter/16"
+     ],
+     "durationsMs": [
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+     ]
+    }
+   }
+  }
+ },
+ "pieceSets": {
+  "tileset": {
+   "atlas": "tileset",
+   "pieces": [
+    "cloud_1",
+    "cloud_2",
+    "cloud_3",
+    "hills",
+    "roof_hut_a",
+    "roof_hut_b",
+    "platform_left",
+    "platform_right",
+    "building_block",
+    "building_top",
+    "caps_a",
+    "caps_b",
+    "tank",
+    "hanging_curve_a",
+    "hanging_curve_b",
+    "swatch",
+    "bridge_deck",
+    "bridge_arch",
+    "arch_low",
+    "railing",
+    "ground_strip",
+    "ground_tile",
+    "power_pole",
+    "power_poles_wire_a",
+    "power_poles_wire_b",
+    "street_lamp_l",
+    "street_lamp_r",
+    "street_lamp_double",
+    "bollard",
+    "light_cone",
+    "pipe_vertical",
+    "pipe_bit_a",
+    "pipe_bit_b",
+    "trash_can",
+    "dumpster",
+    "bag_a",
+    "bag_b",
+    "graffiti",
+    "ac_unit",
+    "electric_box",
+    "cctv_camera",
+    "gas_cylinders",
+    "small_sign",
+    "low_debris_a",
+    "low_debris_b",
+    "bench",
+    "debris_stick",
+    "junk_pile",
+    "door_neon",
+    "door",
+    "windows"
+   ]
+  },
+  "ui_bars": {
+   "atlas": "ui_bars",
+   "pieces": [
+    "bar_white",
+    "bar_red",
+    "bar_green",
+    "bar_orange",
+    "bar_cyan",
+    "skull_orange",
+    "skull_white",
+    "skull_red",
+    "skull_green"
+   ]
+  },
+  "stage_fx": {
+   "atlas": "stage_fx",
+   "pieces": [
+    "sky",
+    "sky_sunset",
+    "fog",
+    "rain",
+    "spark",
+    "casing",
+    "vignette",
+    "scanline",
+    "hex_shield",
+    "blood_sigil",
+    "alert"
+   ]
+  }
+ },
+ "images": {
+  "ui_buttons_up": {
+   "url": "ui/ui_buttons_up.png"
+  },
+  "ui_buttons_down": {
+   "url": "ui/ui_buttons_down.png"
+  }
+ },
+ "fonts": {
+  "boxed_in": {
+   "url": "fonts/boxed_in.ttf",
+   "nativePx": 8
+  },
+  "big_boy": {
+   "url": "fonts/big_boy.ttf",
+   "nativePx": 16
+  }
+ },
+ "stages": {
+  "dark_city": {
+   "url": "stages/dark_city.json"
+  }
+ },
+ "audio": {
+  "banks": {
+   "generated": {
+    "shotgun": [
+     "audio/generated/shotgun.wav"
+    ],
+    "snipe": [
+     "audio/generated/snipe.wav"
+    ],
+    "swing": [
+     "audio/generated/swing.wav"
+    ],
+    "beamCharge": [
+     "audio/generated/beamCharge.wav"
+    ],
+    "beamIgnite": [
+     "audio/generated/beamIgnite.wav"
+    ],
+    "beamLoop": [
+     "audio/generated/beamLoop.wav"
+    ],
+    "beamEnd": [
+     "audio/generated/beamEnd.wav"
+    ],
+    "overdrive": [
+     "audio/generated/overdrive.wav"
+    ],
+    "dash": [
+     "audio/generated/dash.wav"
+    ],
+    "jump": [
+     "audio/generated/jump.wav"
+    ],
+    "land": [
+     "audio/generated/land.wav"
+    ],
+    "hurt": [
+     "audio/generated/hurt.wav"
+    ],
+    "defeat": [
+     "audio/generated/defeat.wav"
+    ],
+    "phaseCharge": [
+     "audio/generated/phaseCharge.wav"
+    ],
+    "blink": [
+     "audio/generated/blink.wav"
+    ],
+    "phaseSwing": [
+     "audio/generated/phaseSwing.wav"
+    ],
+    "phaseSlash": [
+     "audio/generated/phaseSlash.wav"
+    ],
+    "phaseSlam": [
+     "audio/generated/phaseSlam.wav"
+    ],
+    "strike": [
+     "audio/generated/strike.wav"
+    ],
+    "kick": [
+     "audio/generated/kick.wav"
+    ],
+    "spinLoop": [
+     "audio/generated/spinLoop.wav"
+    ],
+    "spinEnd": [
+     "audio/generated/spinEnd.wav"
+    ],
+    "cometKick": [
+     "audio/generated/cometKick.wav"
+    ],
+    "spinBounce": [
+     "audio/generated/spinBounce.wav"
+    ],
+    "cometBurst": [
+     "audio/generated/cometBurst.wav"
+    ],
+    "vault": [
+     "audio/generated/vault.wav"
+    ],
+    "kiBurst": [
+     "audio/generated/kiBurst.wav"
+    ],
+    "kiWave": [
+     "audio/generated/kiWave.wav"
+    ],
+    "windCharge": [
+     "audio/generated/windCharge.wav"
+    ],
+    "windSmash": [
+     "audio/generated/windSmash.wav"
+    ],
+    "windSmashFull": [
+     "audio/generated/windSmashFull.wav"
+    ],
+    "cycloneStart": [
+     "audio/generated/cycloneStart.wav"
+    ],
+    "cyclone": [
+     "audio/generated/cyclone.wav"
+    ],
+    "airCyclone": [
+     "audio/generated/airCyclone.wav"
+    ],
+    "tornadoWindup": [
+     "audio/generated/tornadoWindup.wav"
+    ],
+    "slashDark": [
+     "audio/generated/slashDark.wav"
+    ],
+    "grab": [
+     "audio/generated/grab.wav"
+    ],
+    "grabStrong": [
+     "audio/generated/grabStrong.wav"
+    ],
+    "grabbed": [
+     "audio/generated/grabbed.wav"
+    ],
+    "hurl": [
+     "audio/generated/hurl.wav"
+    ],
+    "throw": [
+     "audio/generated/throw.wav"
+    ],
+    "throwStrong": [
+     "audio/generated/throwStrong.wav"
+    ],
+    "throwSlam": [
+     "audio/generated/throwSlam.wav"
+    ],
+    "throwToss": [
+     "audio/generated/throwToss.wav"
+    ],
+    "zap": [
+     "audio/generated/zap.wav"
+    ],
+    "zap3": [
+     "audio/generated/zap3.wav"
+    ],
+    "soulCharge": [
+     "audio/generated/soulCharge.wav"
+    ],
+    "soul": [
+     "audio/generated/soul.wav"
+    ],
+    "soulHit": [
+     "audio/generated/soulHit.wav"
+    ],
+    "soulFade": [
+     "audio/generated/soulFade.wav"
+    ],
+    "novaCharge": [
+     "audio/generated/novaCharge.wav"
+    ],
+    "nova": [
+     "audio/generated/nova.wav"
+    ],
+    "novaFull": [
+     "audio/generated/novaFull.wav"
+    ],
+    "demon": [
+     "audio/generated/demon.wav"
+    ],
+    "aura": [
+     "audio/generated/aura.wav"
+    ],
+    "summonCast": [
+     "audio/generated/summonCast.wav"
+    ],
+    "summonHole": [
+     "audio/generated/summonHole.wav"
+    ],
+    "batOut": [
+     "audio/generated/batOut.wav"
+    ],
+    "batBite": [
+     "audio/generated/batBite.wav"
+    ],
+    "bloodHeal": [
+     "audio/generated/bloodHeal.wav"
+    ],
+    "rebirthCharge": [
+     "audio/generated/rebirthCharge.wav"
+    ],
+    "rebirth": [
+     "audio/generated/rebirth.wav"
+    ],
+    "chain": [
+     "audio/generated/chain.wav"
+    ],
+    "shield": [
+     "audio/generated/shield.wav"
+    ],
+    "upgrade": [
+     "audio/generated/upgrade.wav"
+    ],
+    "hit": [
+     "audio/generated/hit.wav"
+    ],
+    "hitHeavy": [
+     "audio/generated/hitHeavy.wav"
+    ],
+    "spawn": [
+     "audio/generated/spawn.wav"
+    ],
+    "goblinAttack": [
+     "audio/generated/goblinAttack.wav"
+    ],
+    "hoodedShoot": [
+     "audio/generated/hoodedShoot.wav"
+    ],
+    "bruteWindup": [
+     "audio/generated/bruteWindup.wav"
+    ],
+    "bruteSmash": [
+     "audio/generated/bruteSmash.wav"
+    ],
+    "deathGoblin": [
+     "audio/generated/deathGoblin.wav"
+    ],
+    "deathHooded": [
+     "audio/generated/deathHooded.wav"
+    ],
+    "deathBrute": [
+     "audio/generated/deathBrute.wav"
+    ],
+    "frogWindup": [
+     "audio/generated/frogWindup.wav"
+    ],
+    "frogHop": [
+     "audio/generated/frogHop.wav"
+    ],
+    "frogLand": [
+     "audio/generated/frogLand.wav"
+    ],
+    "frogSlam": [
+     "audio/generated/frogSlam.wav"
+    ],
+    "frogJump": [
+     "audio/generated/frogJump.wav"
+    ],
+    "frogBurp": [
+     "audio/generated/frogBurp.wav"
+    ],
+    "bossCast": [
+     "audio/generated/bossCast.wav"
+    ],
+    "missile": [
+     "audio/generated/missile.wav"
+    ],
+    "missileHit": [
+     "audio/generated/missileHit.wav"
+    ],
+    "lightningWarn": [
+     "audio/generated/lightningWarn.wav"
+    ],
+    "lightning": [
+     "audio/generated/lightning.wav"
+    ],
+    "berserk": [
+     "audio/generated/berserk.wav"
+    ],
+    "bossDefeat": [
+     "audio/generated/bossDefeat.wav"
+    ],
+    "repel": [
+     "audio/generated/repel.wav"
+    ],
+    "fireSlash": [
+     "audio/generated/fireSlash.wav"
+    ],
+    "meteor": [
+     "audio/generated/meteor.wav"
+    ],
+    "wandSwing": [
+     "audio/generated/wandSwing.wav"
+    ],
+    "dart": [
+     "audio/generated/dart.wav"
+    ],
+    "dartHit": [
+     "audio/generated/dartHit.wav"
+    ],
+    "burstCast": [
+     "audio/generated/burstCast.wav"
+    ],
+    "detonate": [
+     "audio/generated/detonate.wav"
+    ],
+    "fireCast": [
+     "audio/generated/fireCast.wav"
+    ],
+    "fireballHit": [
+     "audio/generated/fireballHit.wav"
+    ],
+    "flameOn": [
+     "audio/generated/flameOn.wav"
+    ],
+    "flameLoop": [
+     "audio/generated/flameLoop.wav"
+    ],
+    "flameEnd": [
+     "audio/generated/flameEnd.wav"
+    ],
+    "dragonRise": [
+     "audio/generated/dragonRise.wav"
+    ],
+    "dragonRoar": [
+     "audio/generated/dragonRoar.wav"
+    ],
+    "dragonBreath": [
+     "audio/generated/dragonBreath.wav"
+    ],
+    "breathLoop": [
+     "audio/generated/breathLoop.wav"
+    ],
+    "cometDive": [
+     "audio/generated/cometDive.wav"
+    ],
+    "cometImpact": [
+     "audio/generated/cometImpact.wav"
+    ],
+    "boltCharge": [
+     "audio/generated/boltCharge.wav"
+    ],
+    "thunderBolt": [
+     "audio/generated/thunderBolt.wav"
+    ],
+    "iceCast": [
+     "audio/generated/iceCast.wav"
+    ],
+    "icePillar": [
+     "audio/generated/icePillar.wav"
+    ],
+    "shieldUp": [
+     "audio/generated/shieldUp.wav"
+    ],
+    "shieldBlock": [
+     "audio/generated/shieldBlock.wav"
+    ],
+    "shieldBreak": [
+     "audio/generated/shieldBreak.wav"
+    ],
+    "chargeCircle": [
+     "audio/generated/chargeCircle.wav"
+    ],
+    "wandSlam": [
+     "audio/generated/wandSlam.wav"
+    ],
+    "volcano": [
+     "audio/generated/volcano.wav"
+    ],
+    "blackHoleCast": [
+     "audio/generated/blackHoleCast.wav"
+    ],
+    "blackHole": [
+     "audio/generated/blackHole.wav"
+    ],
+    "skyStrike": [
+     "audio/generated/skyStrike.wav"
+    ],
+    "fireStorm": [
+     "audio/generated/fireStorm.wav"
+    ],
+    "fireStormHit": [
+     "audio/generated/fireStormHit.wav"
+    ],
+    "burnDash": [
+     "audio/generated/burnDash.wav"
+    ],
+    "spinDodge": [
+     "audio/generated/spinDodge.wav"
+    ],
+    "airJump": [
+     "audio/generated/airJump.wav"
+    ],
+    "frostfallDive": [
+     "audio/generated/frostfallDive.wav"
+    ],
+    "frostPillar": [
+     "audio/generated/frostPillar.wav"
+    ],
+    "eruption": [
+     "audio/generated/eruption.wav"
+    ],
+    "dragonBlast": [
+     "audio/generated/dragonBlast.wav"
+    ],
+    "shatter": [
+     "audio/generated/shatter.wav"
+    ],
+    "thaw": [
+     "audio/generated/thaw.wav"
+    ],
+    "extinguish": [
+     "audio/generated/extinguish.wav"
+    ],
+    "spearCharge": [
+     "audio/generated/spearCharge.wav"
+    ],
+    "spearHum": [
+     "audio/generated/spearHum.wav"
+    ],
+    "spear": [
+     "audio/generated/spear.wav"
+    ],
+    "judgement": [
+     "audio/generated/judgement.wav"
+    ],
+    "thunderfall": [
+     "audio/generated/thunderfall.wav"
+    ],
+    "thunderfallStrike": [
+     "audio/generated/thunderfallStrike.wav"
+    ],
+    "shock": [
+     "audio/generated/shock.wav"
+    ],
+    "bossFall": [
+     "audio/generated/bossFall.wav"
+    ],
+    "bossArrive": [
+     "audio/generated/bossArrive.wav"
+    ],
+    "alert": [
+     "audio/generated/alert.wav"
+    ],
+    "waveStart": [
+     "audio/generated/waveStart.wav"
+    ],
+    "waveClear": [
+     "audio/generated/waveClear.wav"
+    ],
+    "gameOver": [
+     "audio/generated/gameOver.wav"
+    ],
+    "pause": [
+     "audio/generated/pause.wav"
+    ],
+    "unpause": [
+     "audio/generated/unpause.wav"
+    ],
+    "exitOpen": [
+     "audio/generated/exitOpen.wav"
+    ],
+    "stageEnter": [
+     "audio/generated/stageEnter.wav"
+    ],
+    "rain": [
+     "audio/generated/rain.wav"
+    ],
+    "thunder": [
+     "audio/generated/thunder.wav"
+    ],
+    "musicFight": [
+     "audio/generated/musicFight.wav"
+    ],
+    "musicCalm": [
+     "audio/generated/musicCalm.wav"
+    ],
+    "musicTitle": [
+     "audio/imported/musicTitle.mp3"
+    ],
+    "musicBattle": [
+     "audio/generated/musicFight.wav"
+    ]
+   }
+  }
+ }
+}

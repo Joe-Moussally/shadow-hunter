@@ -1,0 +1,152 @@
+{
+ "frames": {
+  "gust/0": {
+   "frame": {
+    "x": 172,
+    "y": 2,
+    "w": 15,
+    "h": 7
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 44,
+    "y": 40,
+    "w": 15,
+    "h": 7
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  },
+  "gust/1": {
+   "frame": {
+    "x": 136,
+    "y": 2,
+    "w": 25,
+    "h": 15
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 31,
+    "y": 33,
+    "w": 25,
+    "h": 15
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  },
+  "gust/2": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 35,
+    "h": 18
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 21,
+    "y": 30,
+    "w": 35,
+    "h": 18
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  },
+  "gust/3": {
+   "frame": {
+    "x": 39,
+    "y": 2,
+    "w": 32,
+    "h": 18
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 20,
+    "y": 30,
+    "w": 32,
+    "h": 18
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  },
+  "gust/4": {
+   "frame": {
+    "x": 73,
+    "y": 2,
+    "w": 31,
+    "h": 18
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 20,
+    "y": 30,
+    "w": 31,
+    "h": 18
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  },
+  "gust/5": {
+   "frame": {
+    "x": 106,
+    "y": 2,
+    "w": 28,
+    "h": 16
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 20,
+    "y": 30,
+    "w": 28,
+    "h": 16
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  },
+  "gust/6": {
+   "frame": {
+    "x": 163,
+    "y": 2,
+    "w": 7,
+    "h": 14
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 25,
+    "y": 30,
+    "w": 7,
+    "h": 14
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  }
+ },
+ "meta": {
+  "image": "smoke_gust_small.png",
+  "size": {
+   "w": 189,
+   "h": 22
+  },
+  "scale": "1"
+ }
+}

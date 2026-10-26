@@ -1,0 +1,272 @@
+{
+ "frames": {
+  "launch/0": {
+   "frame": {
+    "x": 198,
+    "y": 2,
+    "w": 12,
+    "h": 9
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 9,
+    "y": 11,
+    "w": 12,
+    "h": 9
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "launch/1": {
+   "frame": {
+    "x": 182,
+    "y": 2,
+    "w": 14,
+    "h": 9
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 8,
+    "y": 11,
+    "w": 14,
+    "h": 9
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "fly/0": {
+   "frame": {
+    "x": 136,
+    "y": 2,
+    "w": 17,
+    "h": 10
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 5,
+    "y": 10,
+    "w": 17,
+    "h": 10
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "fly/1": {
+   "frame": {
+    "x": 102,
+    "y": 2,
+    "w": 17,
+    "h": 11
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 5,
+    "y": 10,
+    "w": 17,
+    "h": 11
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "fly/2": {
+   "frame": {
+    "x": 121,
+    "y": 2,
+    "w": 13,
+    "h": 11
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 9,
+    "y": 10,
+    "w": 13,
+    "h": 11
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "fly/3": {
+   "frame": {
+    "x": 155,
+    "y": 2,
+    "w": 13,
+    "h": 10
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 9,
+    "y": 11,
+    "w": 13,
+    "h": 10
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "burst/0": {
+   "frame": {
+    "x": 86,
+    "y": 2,
+    "w": 14,
+    "h": 16
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 9,
+    "y": 8,
+    "w": 14,
+    "h": 16
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "burst/1": {
+   "frame": {
+    "x": 69,
+    "y": 2,
+    "w": 15,
+    "h": 18
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 9,
+    "y": 7,
+    "w": 15,
+    "h": 18
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "burst/2": {
+   "frame": {
+    "x": 33,
+    "y": 2,
+    "w": 17,
+    "h": 19
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 9,
+    "y": 7,
+    "w": 17,
+    "h": 19
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "burst/3": {
+   "frame": {
+    "x": 52,
+    "y": 2,
+    "w": 15,
+    "h": 19
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 11,
+    "y": 7,
+    "w": 15,
+    "h": 19
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "burst/4": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 15,
+    "h": 20
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 11,
+    "y": 6,
+    "w": 15,
+    "h": 20
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "burst/5": {
+   "frame": {
+    "x": 19,
+    "y": 2,
+    "w": 12,
+    "h": 20
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 14,
+    "y": 6,
+    "w": 12,
+    "h": 20
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "burst/6": {
+   "frame": {
+    "x": 170,
+    "y": 2,
+    "w": 10,
+    "h": 10
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 15,
+    "y": 8,
+    "w": 10,
+    "h": 10
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  }
+ },
+ "meta": {
+  "image": "witch_ember.png",
+  "size": {
+   "w": 212,
+   "h": 24
+  },
+  "scale": "1"
+ }
+}

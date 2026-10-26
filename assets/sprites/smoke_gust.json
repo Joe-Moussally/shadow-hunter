@@ -1,0 +1,172 @@
+{
+ "frames": {
+  "gust/0": {
+   "frame": {
+    "x": 217,
+    "y": 2,
+    "w": 15,
+    "h": 7
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 44,
+    "y": 40,
+    "w": 15,
+    "h": 7
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  },
+  "gust/1": {
+   "frame": {
+    "x": 175,
+    "y": 2,
+    "w": 25,
+    "h": 15
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 31,
+    "y": 33,
+    "w": 25,
+    "h": 15
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  },
+  "gust/2": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 35,
+    "h": 18
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 21,
+    "y": 30,
+    "w": 35,
+    "h": 18
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  },
+  "gust/3": {
+   "frame": {
+    "x": 39,
+    "y": 2,
+    "w": 34,
+    "h": 18
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 20,
+    "y": 30,
+    "w": 34,
+    "h": 18
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  },
+  "gust/4": {
+   "frame": {
+    "x": 75,
+    "y": 2,
+    "w": 33,
+    "h": 18
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 19,
+    "y": 30,
+    "w": 33,
+    "h": 18
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  },
+  "gust/5": {
+   "frame": {
+    "x": 110,
+    "y": 2,
+    "w": 32,
+    "h": 18
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 19,
+    "y": 30,
+    "w": 32,
+    "h": 18
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  },
+  "gust/6": {
+   "frame": {
+    "x": 144,
+    "y": 2,
+    "w": 29,
+    "h": 16
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 19,
+    "y": 30,
+    "w": 29,
+    "h": 16
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  },
+  "gust/7": {
+   "frame": {
+    "x": 202,
+    "y": 2,
+    "w": 13,
+    "h": 13
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 19,
+    "y": 30,
+    "w": 13,
+    "h": 13
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  }
+ },
+ "meta": {
+  "image": "smoke_gust.png",
+  "size": {
+   "w": 234,
+   "h": 22
+  },
+  "scale": "1"
+ }
+}

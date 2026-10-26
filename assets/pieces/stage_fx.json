@@ -1,0 +1,232 @@
+{
+ "frames": {
+  "sky": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 384,
+    "h": 216
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 216
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 216
+   }
+  },
+  "sky_sunset": {
+   "frame": {
+    "x": 388,
+    "y": 2,
+    "w": 384,
+    "h": 216
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 216
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 216
+   }
+  },
+  "fog": {
+   "frame": {
+    "x": 1160,
+    "y": 2,
+    "w": 256,
+    "h": 48
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 48
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 48
+   }
+  },
+  "rain": {
+   "frame": {
+    "x": 1507,
+    "y": 2,
+    "w": 1,
+    "h": 6
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1,
+    "h": 6
+   },
+   "sourceSize": {
+    "w": 1,
+    "h": 6
+   }
+  },
+  "spark": {
+   "frame": {
+    "x": 1510,
+    "y": 2,
+    "w": 2,
+    "h": 2
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 2,
+    "h": 2
+   },
+   "sourceSize": {
+    "w": 2,
+    "h": 2
+   }
+  },
+  "casing": {
+   "frame": {
+    "x": 1517,
+    "y": 2,
+    "w": 2,
+    "h": 1
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 2,
+    "h": 1
+   },
+   "sourceSize": {
+    "w": 2,
+    "h": 1
+   }
+  },
+  "vignette": {
+   "frame": {
+    "x": 774,
+    "y": 2,
+    "w": 384,
+    "h": 216
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 216
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 216
+   }
+  },
+  "scanline": {
+   "frame": {
+    "x": 1514,
+    "y": 2,
+    "w": 1,
+    "h": 2
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1,
+    "h": 2
+   },
+   "sourceSize": {
+    "w": 1,
+    "h": 2
+   }
+  },
+  "hex_shield": {
+   "frame": {
+    "x": 1418,
+    "y": 2,
+    "w": 37,
+    "h": 37
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 37,
+    "h": 37
+   },
+   "sourceSize": {
+    "w": 37,
+    "h": 37
+   }
+  },
+  "blood_sigil": {
+   "frame": {
+    "x": 1457,
+    "y": 2,
+    "w": 37,
+    "h": 37
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 37,
+    "h": 37
+   },
+   "sourceSize": {
+    "w": 37,
+    "h": 37
+   }
+  },
+  "alert": {
+   "frame": {
+    "x": 1496,
+    "y": 2,
+    "w": 9,
+    "h": 15
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 9,
+    "h": 15
+   },
+   "sourceSize": {
+    "w": 9,
+    "h": 15
+   }
+  }
+ },
+ "meta": {
+  "image": "stage_fx.png",
+  "size": {
+   "w": 1521,
+   "h": 220
+  },
+  "scale": "1"
+ }
+}

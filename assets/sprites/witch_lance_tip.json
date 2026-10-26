@@ -1,0 +1,132 @@
+{
+ "frames": {
+  "tip/0": {
+   "frame": {
+    "x": 97,
+    "y": 2,
+    "w": 20,
+    "h": 18
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 44,
+    "y": 12,
+    "w": 20,
+    "h": 18
+   },
+   "sourceSize": {
+    "w": 84,
+    "h": 40
+   }
+  },
+  "tip/1": {
+   "frame": {
+    "x": 28,
+    "y": 2,
+    "w": 24,
+    "h": 26
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 40,
+    "y": 7,
+    "w": 24,
+    "h": 26
+   },
+   "sourceSize": {
+    "w": 84,
+    "h": 40
+   }
+  },
+  "tip/2": {
+   "frame": {
+    "x": 78,
+    "y": 2,
+    "w": 17,
+    "h": 24
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 48,
+    "y": 9,
+    "w": 17,
+    "h": 24
+   },
+   "sourceSize": {
+    "w": 84,
+    "h": 40
+   }
+  },
+  "tip/3": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 24,
+    "h": 28
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 41,
+    "y": 7,
+    "w": 24,
+    "h": 28
+   },
+   "sourceSize": {
+    "w": 84,
+    "h": 40
+   }
+  },
+  "tip/4": {
+   "frame": {
+    "x": 119,
+    "y": 2,
+    "w": 20,
+    "h": 18
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 44,
+    "y": 12,
+    "w": 20,
+    "h": 18
+   },
+   "sourceSize": {
+    "w": 84,
+    "h": 40
+   }
+  },
+  "tip/5": {
+   "frame": {
+    "x": 54,
+    "y": 2,
+    "w": 22,
+    "h": 26
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 42,
+    "y": 7,
+    "w": 22,
+    "h": 26
+   },
+   "sourceSize": {
+    "w": 84,
+    "h": 40
+   }
+  }
+ },
+ "meta": {
+  "image": "witch_lance_tip.png",
+  "size": {
+   "w": 141,
+   "h": 32
+  },
+  "scale": "1"
+ }
+}

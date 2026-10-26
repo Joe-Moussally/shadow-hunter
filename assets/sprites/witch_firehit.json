@@ -1,0 +1,92 @@
+{
+ "frames": {
+  "hit/0": {
+   "frame": {
+    "x": 69,
+    "y": 2,
+    "w": 20,
+    "h": 18
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 42,
+    "y": 24,
+    "w": 20,
+    "h": 18
+   },
+   "sourceSize": {
+    "w": 84,
+    "h": 64
+   }
+  },
+  "hit/1": {
+   "frame": {
+    "x": 25,
+    "y": 2,
+    "w": 20,
+    "h": 22
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 45,
+    "y": 23,
+    "w": 20,
+    "h": 22
+   },
+   "sourceSize": {
+    "w": 84,
+    "h": 64
+   }
+  },
+  "hit/2": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 21,
+    "h": 22
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 46,
+    "y": 23,
+    "w": 21,
+    "h": 22
+   },
+   "sourceSize": {
+    "w": 84,
+    "h": 64
+   }
+  },
+  "hit/3": {
+   "frame": {
+    "x": 47,
+    "y": 2,
+    "w": 20,
+    "h": 21
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 47,
+    "y": 24,
+    "w": 20,
+    "h": 21
+   },
+   "sourceSize": {
+    "w": 84,
+    "h": 64
+   }
+  }
+ },
+ "meta": {
+  "image": "witch_firehit.png",
+  "size": {
+   "w": 91,
+   "h": 26
+  },
+  "scale": "1"
+ }
+}

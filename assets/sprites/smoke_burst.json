@@ -1,0 +1,192 @@
+{
+ "frames": {
+  "burst/0": {
+   "frame": {
+    "x": 373,
+    "y": 2,
+    "w": 31,
+    "h": 15
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 43,
+    "y": 35,
+    "w": 31,
+    "h": 15
+   },
+   "sourceSize": {
+    "w": 80,
+    "h": 64
+   }
+  },
+  "burst/1": {
+   "frame": {
+    "x": 324,
+    "y": 2,
+    "w": 47,
+    "h": 33
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 20,
+    "y": 17,
+    "w": 47,
+    "h": 33
+   },
+   "sourceSize": {
+    "w": 80,
+    "h": 64
+   }
+  },
+  "burst/2": {
+   "frame": {
+    "x": 234,
+    "y": 2,
+    "w": 45,
+    "h": 36
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 17,
+    "y": 14,
+    "w": 45,
+    "h": 36
+   },
+   "sourceSize": {
+    "w": 80,
+    "h": 64
+   }
+  },
+  "burst/3": {
+   "frame": {
+    "x": 187,
+    "y": 2,
+    "w": 45,
+    "h": 40
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 15,
+    "y": 10,
+    "w": 45,
+    "h": 40
+   },
+   "sourceSize": {
+    "w": 80,
+    "h": 64
+   }
+  },
+  "burst/4": {
+   "frame": {
+    "x": 139,
+    "y": 2,
+    "w": 46,
+    "h": 40
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 12,
+    "y": 10,
+    "w": 46,
+    "h": 40
+   },
+   "sourceSize": {
+    "w": 80,
+    "h": 64
+   }
+  },
+  "burst/5": {
+   "frame": {
+    "x": 46,
+    "y": 2,
+    "w": 47,
+    "h": 41
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 9,
+    "y": 9,
+    "w": 47,
+    "h": 41
+   },
+   "sourceSize": {
+    "w": 80,
+    "h": 64
+   }
+  },
+  "burst/6": {
+   "frame": {
+    "x": 95,
+    "y": 2,
+    "w": 42,
+    "h": 41
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 9,
+    "y": 9,
+    "w": 42,
+    "h": 41
+   },
+   "sourceSize": {
+    "w": 80,
+    "h": 64
+   }
+  },
+  "burst/7": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 42,
+    "h": 42
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 9,
+    "y": 8,
+    "w": 42,
+    "h": 42
+   },
+   "sourceSize": {
+    "w": 80,
+    "h": 64
+   }
+  },
+  "burst/8": {
+   "frame": {
+    "x": 281,
+    "y": 2,
+    "w": 41,
+    "h": 34
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 9,
+    "y": 8,
+    "w": 41,
+    "h": 34
+   },
+   "sourceSize": {
+    "w": 80,
+    "h": 64
+   }
+  }
+ },
+ "meta": {
+  "image": "smoke_burst.png",
+  "size": {
+   "w": 406,
+   "h": 46
+  },
+  "scale": "1"
+ }
+}

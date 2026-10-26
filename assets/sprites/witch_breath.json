@@ -1,0 +1,172 @@
+{
+ "frames": {
+  "breath/0": {
+   "frame": {
+    "x": 560,
+    "y": 2,
+    "w": 45,
+    "h": 25
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 1,
+    "y": 5,
+    "w": 45,
+    "h": 25
+   },
+   "sourceSize": {
+    "w": 95,
+    "h": 35
+   }
+  },
+  "breath/1": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 95,
+    "h": 35
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 95,
+    "h": 35
+   },
+   "sourceSize": {
+    "w": 95,
+    "h": 35
+   }
+  },
+  "breath/2": {
+   "frame": {
+    "x": 194,
+    "y": 2,
+    "w": 93,
+    "h": 33
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 1,
+    "w": 93,
+    "h": 33
+   },
+   "sourceSize": {
+    "w": 95,
+    "h": 35
+   }
+  },
+  "breath/3": {
+   "frame": {
+    "x": 99,
+    "y": 2,
+    "w": 93,
+    "h": 35
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 1,
+    "y": 0,
+    "w": 93,
+    "h": 35
+   },
+   "sourceSize": {
+    "w": 95,
+    "h": 35
+   }
+  },
+  "breath/4": {
+   "frame": {
+    "x": 467,
+    "y": 2,
+    "w": 91,
+    "h": 27
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 4,
+    "y": 4,
+    "w": 91,
+    "h": 27
+   },
+   "sourceSize": {
+    "w": 95,
+    "h": 35
+   }
+  },
+  "breath/5": {
+   "frame": {
+    "x": 289,
+    "y": 2,
+    "w": 87,
+    "h": 29
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 8,
+    "y": 3,
+    "w": 87,
+    "h": 29
+   },
+   "sourceSize": {
+    "w": 95,
+    "h": 35
+   }
+  },
+  "breath/6": {
+   "frame": {
+    "x": 378,
+    "y": 2,
+    "w": 87,
+    "h": 29
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 8,
+    "y": 3,
+    "w": 87,
+    "h": 29
+   },
+   "sourceSize": {
+    "w": 95,
+    "h": 35
+   }
+  },
+  "breath/7": {
+   "frame": {
+    "x": 607,
+    "y": 2,
+    "w": 1,
+    "h": 1
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1,
+    "h": 1
+   },
+   "sourceSize": {
+    "w": 95,
+    "h": 35
+   }
+  }
+ },
+ "meta": {
+  "image": "witch_breath.png",
+  "size": {
+   "w": 610,
+   "h": 39
+  },
+  "scale": "1"
+ }
+}

@@ -1,0 +1,112 @@
+{
+ "frames": {
+  "orb/0": {
+   "frame": {
+    "x": 27,
+    "y": 2,
+    "w": 23,
+    "h": 19
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 5,
+    "y": 8,
+    "w": 23,
+    "h": 19
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "orb/1": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 23,
+    "h": 20
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 5,
+    "y": 7,
+    "w": 23,
+    "h": 20
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "orb/2": {
+   "frame": {
+    "x": 52,
+    "y": 2,
+    "w": 16,
+    "h": 19
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 6,
+    "y": 7,
+    "w": 16,
+    "h": 19
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "orb/3": {
+   "frame": {
+    "x": 70,
+    "y": 2,
+    "w": 14,
+    "h": 19
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 7,
+    "y": 7,
+    "w": 14,
+    "h": 19
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "orb/4": {
+   "frame": {
+    "x": 86,
+    "y": 2,
+    "w": 5,
+    "h": 5
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 13,
+    "y": 15,
+    "w": 5,
+    "h": 5
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  }
+ },
+ "meta": {
+  "image": "hooded_orb.png",
+  "size": {
+   "w": 93,
+   "h": 24
+  },
+  "scale": "1"
+ }
+}

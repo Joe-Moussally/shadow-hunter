@@ -1,0 +1,352 @@
+{
+ "frames": {
+  "shatter/0": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 39,
+    "h": 45
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 10,
+    "y": 8,
+    "w": 39,
+    "h": 45
+   },
+   "sourceSize": {
+    "w": 52,
+    "h": 53
+   }
+  },
+  "shatter/1": {
+   "frame": {
+    "x": 43,
+    "y": 2,
+    "w": 40,
+    "h": 43
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 10,
+    "y": 10,
+    "w": 40,
+    "h": 43
+   },
+   "sourceSize": {
+    "w": 52,
+    "h": 53
+   }
+  },
+  "shatter/2": {
+   "frame": {
+    "x": 85,
+    "y": 2,
+    "w": 40,
+    "h": 39
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 10,
+    "y": 14,
+    "w": 40,
+    "h": 39
+   },
+   "sourceSize": {
+    "w": 52,
+    "h": 53
+   }
+  },
+  "shatter/3": {
+   "frame": {
+    "x": 127,
+    "y": 2,
+    "w": 42,
+    "h": 35
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 10,
+    "y": 18,
+    "w": 42,
+    "h": 35
+   },
+   "sourceSize": {
+    "w": 52,
+    "h": 53
+   }
+  },
+  "shatter/4": {
+   "frame": {
+    "x": 171,
+    "y": 2,
+    "w": 42,
+    "h": 35
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 10,
+    "y": 18,
+    "w": 42,
+    "h": 35
+   },
+   "sourceSize": {
+    "w": 52,
+    "h": 53
+   }
+  },
+  "shatter/5": {
+   "frame": {
+    "x": 215,
+    "y": 2,
+    "w": 42,
+    "h": 24
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 10,
+    "y": 29,
+    "w": 42,
+    "h": 24
+   },
+   "sourceSize": {
+    "w": 52,
+    "h": 53
+   }
+  },
+  "shatter/6": {
+   "frame": {
+    "x": 435,
+    "y": 2,
+    "w": 42,
+    "h": 22
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 10,
+    "y": 31,
+    "w": 42,
+    "h": 22
+   },
+   "sourceSize": {
+    "w": 52,
+    "h": 53
+   }
+  },
+  "shatter/7": {
+   "frame": {
+    "x": 479,
+    "y": 2,
+    "w": 42,
+    "h": 22
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 10,
+    "y": 31,
+    "w": 42,
+    "h": 22
+   },
+   "sourceSize": {
+    "w": 52,
+    "h": 53
+   }
+  },
+  "shatter/8": {
+   "frame": {
+    "x": 523,
+    "y": 2,
+    "w": 42,
+    "h": 22
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 10,
+    "y": 31,
+    "w": 42,
+    "h": 22
+   },
+   "sourceSize": {
+    "w": 52,
+    "h": 53
+   }
+  },
+  "shatter/9": {
+   "frame": {
+    "x": 567,
+    "y": 2,
+    "w": 42,
+    "h": 22
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 10,
+    "y": 31,
+    "w": 42,
+    "h": 22
+   },
+   "sourceSize": {
+    "w": 52,
+    "h": 53
+   }
+  },
+  "shatter/10": {
+   "frame": {
+    "x": 347,
+    "y": 2,
+    "w": 42,
+    "h": 23
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 10,
+    "y": 30,
+    "w": 42,
+    "h": 23
+   },
+   "sourceSize": {
+    "w": 52,
+    "h": 53
+   }
+  },
+  "shatter/11": {
+   "frame": {
+    "x": 391,
+    "y": 2,
+    "w": 42,
+    "h": 23
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 10,
+    "y": 30,
+    "w": 42,
+    "h": 23
+   },
+   "sourceSize": {
+    "w": 52,
+    "h": 53
+   }
+  },
+  "shatter/12": {
+   "frame": {
+    "x": 259,
+    "y": 2,
+    "w": 42,
+    "h": 24
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 10,
+    "y": 29,
+    "w": 42,
+    "h": 24
+   },
+   "sourceSize": {
+    "w": 52,
+    "h": 53
+   }
+  },
+  "shatter/13": {
+   "frame": {
+    "x": 303,
+    "y": 2,
+    "w": 42,
+    "h": 24
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 10,
+    "y": 29,
+    "w": 42,
+    "h": 24
+   },
+   "sourceSize": {
+    "w": 52,
+    "h": 53
+   }
+  },
+  "shatter/14": {
+   "frame": {
+    "x": 611,
+    "y": 2,
+    "w": 36,
+    "h": 22
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 16,
+    "y": 29,
+    "w": 36,
+    "h": 22
+   },
+   "sourceSize": {
+    "w": 52,
+    "h": 53
+   }
+  },
+  "shatter/15": {
+   "frame": {
+    "x": 649,
+    "y": 2,
+    "w": 36,
+    "h": 22
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 16,
+    "y": 29,
+    "w": 36,
+    "h": 22
+   },
+   "sourceSize": {
+    "w": 52,
+    "h": 53
+   }
+  },
+  "shatter/16": {
+   "frame": {
+    "x": 687,
+    "y": 2,
+    "w": 1,
+    "h": 1
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1,
+    "h": 1
+   },
+   "sourceSize": {
+    "w": 52,
+    "h": 53
+   }
+  }
+ },
+ "meta": {
+  "image": "witch_frost.png",
+  "size": {
+   "w": 690,
+   "h": 49
+  },
+  "scale": "1"
+ }
+}

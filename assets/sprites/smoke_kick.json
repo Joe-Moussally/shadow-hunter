@@ -1,0 +1,152 @@
+{
+ "frames": {
+  "kick/0": {
+   "frame": {
+    "x": 97,
+    "y": 2,
+    "w": 16,
+    "h": 9
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 14,
+    "y": 17,
+    "w": 16,
+    "h": 9
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "kick/1": {
+   "frame": {
+    "x": 60,
+    "y": 2,
+    "w": 17,
+    "h": 10
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 12,
+    "y": 16,
+    "w": 17,
+    "h": 10
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "kick/2": {
+   "frame": {
+    "x": 79,
+    "y": 2,
+    "w": 16,
+    "h": 10
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 11,
+    "y": 16,
+    "w": 16,
+    "h": 10
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "kick/3": {
+   "frame": {
+    "x": 22,
+    "y": 2,
+    "w": 17,
+    "h": 11
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 10,
+    "y": 15,
+    "w": 17,
+    "h": 11
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "kick/4": {
+   "frame": {
+    "x": 41,
+    "y": 2,
+    "w": 17,
+    "h": 11
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 10,
+    "y": 15,
+    "w": 17,
+    "h": 11
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "kick/5": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 18,
+    "h": 11
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 9,
+    "y": 15,
+    "w": 18,
+    "h": 11
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "kick/6": {
+   "frame": {
+    "x": 115,
+    "y": 2,
+    "w": 1,
+    "h": 1
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1,
+    "h": 1
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  }
+ },
+ "meta": {
+  "image": "smoke_kick.png",
+  "size": {
+   "w": 118,
+   "h": 15
+  },
+  "scale": "1"
+ }
+}

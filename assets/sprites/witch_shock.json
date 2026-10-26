@@ -1,0 +1,112 @@
+{
+ "frames": {
+  "arc/0": {
+   "frame": {
+    "x": 39,
+    "y": 2,
+    "w": 7,
+    "h": 21
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 6,
+    "y": 5,
+    "w": 7,
+    "h": 21
+   },
+   "sourceSize": {
+    "w": 16,
+    "h": 32
+   }
+  },
+  "arc/1": {
+   "frame": {
+    "x": 20,
+    "y": 2,
+    "w": 8,
+    "h": 24
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 4,
+    "y": 3,
+    "w": 8,
+    "h": 24
+   },
+   "sourceSize": {
+    "w": 16,
+    "h": 32
+   }
+  },
+  "arc/2": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 8,
+    "h": 25
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 4,
+    "y": 3,
+    "w": 8,
+    "h": 25
+   },
+   "sourceSize": {
+    "w": 16,
+    "h": 32
+   }
+  },
+  "arc/3": {
+   "frame": {
+    "x": 30,
+    "y": 2,
+    "w": 7,
+    "h": 24
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 3,
+    "y": 4,
+    "w": 7,
+    "h": 24
+   },
+   "sourceSize": {
+    "w": 16,
+    "h": 32
+   }
+  },
+  "arc/4": {
+   "frame": {
+    "x": 12,
+    "y": 2,
+    "w": 6,
+    "h": 25
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 3,
+    "y": 4,
+    "w": 6,
+    "h": 25
+   },
+   "sourceSize": {
+    "w": 16,
+    "h": 32
+   }
+  }
+ },
+ "meta": {
+  "image": "witch_shock.png",
+  "size": {
+   "w": 48,
+   "h": 29
+  },
+  "scale": "1"
+ }
+}

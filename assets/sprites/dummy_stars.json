@@ -1,0 +1,152 @@
+{
+ "frames": {
+  "loop/0": {
+   "frame": {
+    "x": 48,
+    "y": 2,
+    "w": 18,
+    "h": 12
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 3,
+    "y": 7,
+    "w": 18,
+    "h": 12
+   },
+   "sourceSize": {
+    "w": 24,
+    "h": 24
+   }
+  },
+  "loop/1": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 20,
+    "h": 13
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 2,
+    "y": 7,
+    "w": 20,
+    "h": 13
+   },
+   "sourceSize": {
+    "w": 24,
+    "h": 24
+   }
+  },
+  "loop/2": {
+   "frame": {
+    "x": 24,
+    "y": 2,
+    "w": 22,
+    "h": 12
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 1,
+    "y": 8,
+    "w": 22,
+    "h": 12
+   },
+   "sourceSize": {
+    "w": 24,
+    "h": 24
+   }
+  },
+  "fade/0": {
+   "frame": {
+    "x": 68,
+    "y": 2,
+    "w": 18,
+    "h": 12
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 3,
+    "y": 5,
+    "w": 18,
+    "h": 12
+   },
+   "sourceSize": {
+    "w": 24,
+    "h": 24
+   }
+  },
+  "fade/1": {
+   "frame": {
+    "x": 88,
+    "y": 2,
+    "w": 17,
+    "h": 11
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 4,
+    "y": 5,
+    "w": 17,
+    "h": 11
+   },
+   "sourceSize": {
+    "w": 24,
+    "h": 24
+   }
+  },
+  "fade/2": {
+   "frame": {
+    "x": 107,
+    "y": 2,
+    "w": 17,
+    "h": 6
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 3,
+    "y": 4,
+    "w": 17,
+    "h": 6
+   },
+   "sourceSize": {
+    "w": 24,
+    "h": 24
+   }
+  },
+  "fade/3": {
+   "frame": {
+    "x": 126,
+    "y": 2,
+    "w": 10,
+    "h": 5
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 6,
+    "y": 4,
+    "w": 10,
+    "h": 5
+   },
+   "sourceSize": {
+    "w": 24,
+    "h": 24
+   }
+  }
+ },
+ "meta": {
+  "image": "dummy_stars.png",
+  "size": {
+   "w": 138,
+   "h": 17
+  },
+  "scale": "1"
+ }
+}

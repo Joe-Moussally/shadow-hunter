@@ -1,0 +1,192 @@
+{
+ "frames": {
+  "bar_white": {
+   "frame": {
+    "x": 58,
+    "y": 99,
+    "w": 43,
+    "h": 11
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 43,
+    "h": 11
+   },
+   "sourceSize": {
+    "w": 43,
+    "h": 11
+   }
+  },
+  "bar_red": {
+   "frame": {
+    "x": 58,
+    "y": 114,
+    "w": 43,
+    "h": 11
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 43,
+    "h": 11
+   },
+   "sourceSize": {
+    "w": 43,
+    "h": 11
+   }
+  },
+  "bar_green": {
+   "frame": {
+    "x": 58,
+    "y": 129,
+    "w": 43,
+    "h": 11
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 43,
+    "h": 11
+   },
+   "sourceSize": {
+    "w": 43,
+    "h": 11
+   }
+  },
+  "bar_orange": {
+   "frame": {
+    "x": 58,
+    "y": 144,
+    "w": 43,
+    "h": 11
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 43,
+    "h": 11
+   },
+   "sourceSize": {
+    "w": 43,
+    "h": 11
+   }
+  },
+  "bar_cyan": {
+   "frame": {
+    "x": 58,
+    "y": 159,
+    "w": 43,
+    "h": 11
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 43,
+    "h": 11
+   },
+   "sourceSize": {
+    "w": 43,
+    "h": 11
+   }
+  },
+  "skull_orange": {
+   "frame": {
+    "x": 224,
+    "y": 112,
+    "w": 9,
+    "h": 9
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 9,
+    "h": 9
+   },
+   "sourceSize": {
+    "w": 9,
+    "h": 9
+   }
+  },
+  "skull_white": {
+   "frame": {
+    "x": 240,
+    "y": 112,
+    "w": 9,
+    "h": 9
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 9,
+    "h": 9
+   },
+   "sourceSize": {
+    "w": 9,
+    "h": 9
+   }
+  },
+  "skull_red": {
+   "frame": {
+    "x": 224,
+    "y": 128,
+    "w": 9,
+    "h": 9
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 9,
+    "h": 9
+   },
+   "sourceSize": {
+    "w": 9,
+    "h": 9
+   }
+  },
+  "skull_green": {
+   "frame": {
+    "x": 240,
+    "y": 128,
+    "w": 9,
+    "h": 9
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 9,
+    "h": 9
+   },
+   "sourceSize": {
+    "w": 9,
+    "h": 9
+   }
+  }
+ },
+ "meta": {
+  "image": "ui_bars.png",
+  "size": {
+   "w": 1416,
+   "h": 841
+  },
+  "scale": "1"
+ }
+}
